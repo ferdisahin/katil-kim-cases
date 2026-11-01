@@ -1,0 +1,380 @@
+{
+  "id": "oda-307",
+  "number": "002",
+  "title": "Oda 307",
+  "location": "Beyoğlu, İstanbul",
+  "duration": "15–25 dk",
+  "difficulty": "Orta",
+  "teaser": "Kapı kilitliydi. Bir kayıt ise ölü birinin hâlâ konuştuğunu söylüyordu.",
+  "brief": "Araştırmacı gazeteci Leyla Demir, tarihi bir otelin 307 numaralı odasında ölü bulundu. Kapı kilitli. Telefonundan 22.30’da gönderilen bir ses kaydı var; ilk bakışta o saatte hayatta olduğu düşünülüyor.\n\nAma oteldeki her saat aynı zamanı göstermiyor. Üç şüphelinin anlattıklarını doğrulamak, kapının nasıl kilitlendiğini ve kaydın ne zaman oluştuğunu ayırmak sana düşüyor.",
+  "documents": [
+    {
+      "id": "scene",
+      "title": "307 numaralı oda",
+      "subtitle": "Olay yeri incelemesi",
+      "symbol": "door.left.hand.closed",
+      "date": "24 Ekim • 23.05",
+      "body": "Leyla Demir odada ölü bulundu. Kapı, resepsiyonun yedek yetkisiyle açıldı. İçeride zorla giriş izi yok. Pencere sabit ve dışarıya açılmıyor; balkon veya bağlantılı oda bulunmuyor.\n\nKapıda otomatik elektronik kilit var: kapı kapandığında kendiliğinden kilitleniyor. İçeriden ayrıca sürülen bir zincir veya mekanik sürgü yok. Dolayısıyla kilitli kapı, içeriden birinin kapattığı anlamına gelmiyor.\n\nMasadaki dizüstünde haber taslağı, telefonda gönderilmiş bir ses kaydı ve çantada otel müzayedesine ait belgeler bulundu.\n\nBu dava ve tüm bulgular kurmacadır."
+    },
+    {
+      "id": "medical",
+      "title": "Adli zaman değerlendirmesi",
+      "subtitle": "Ölüm aralığı",
+      "symbol": "cross.case",
+      "date": "25 Ekim • 08.45",
+      "body": "Ölüm, dışarıdan uygulanan şiddet sonucu gerçekleşti. Olay yeri bulgularıyla doğrulanan adli zaman aralığı 21.50–22.00 olarak belirlendi. Sonradan yapılan bir müdahale veya tıbbi belirsizlik bulunmuyor.\n\nLeyla’nın o aralıktan sonra konuşması ya da bir mesajı kendisinin göndermesi mümkün değil. Telefonda görünen gönderim saatini, sesin kaydedilme saatiyle karıştırma.\n\nOdadaki diğer izler tek bir ziyaretçiyle mücadele edildiğini gösteriyor."
+    },
+    {
+      "id": "door-log",
+      "title": "307 erişim ve görüntü dökümü",
+      "subtitle": "Yerel cihaz saatleri",
+      "symbol": "key.horizontal",
+      "date": "24 Ekim • Ham kayıt",
+      "body": "Üçüncü kat kapı okuyucusu ve kamera aynı yerel saat sunucusunu kullanıyor. Aşağıdaki saatler cihazın ham gösterimidir; merkez saate dönüştürülmemiştir. Görüntüde yüzler açıkça seçiliyor.\n\n22.00 — Leyla tek başına odasına giriyor.\n22.14 — Otel yöneticisi Nermin Acar, kendisine tanımlı N-04 kartıyla 307’ye giriyor. Yüzü ve kartı kamera ile eşleşiyor.\n22.18 — Nermin odadan tek başına çıkıyor; kapı arkasından otomatik kilitleniyor.\n23.25 — Güvenlik ve polis, resepsiyon yetkisiyle kapıyı açıyor.\n\nOdaya Leyla girdikten sonra Nermin dışında kimse girmedi. Kayıt kesintisiz, servis geçidi yok. Okuyucuda paylaşılan veya kopyalanmış kart kullanımı bulunmadı."
+    },
+    {
+      "id": "clock",
+      "title": "Saat eşitleme tutanağı",
+      "subtitle": "Merkez saat karşılaştırması",
+      "symbol": "clock.arrow.2.circlepath",
+      "date": "25 Ekim • 07.20",
+      "body": "Bakım incelemesi: Üçüncü katın yerel saat sunucusu, olay günü merkez saatten tam 20 dakika ilerideydi. Sapma sabitti; kayıtlar kesilmedi.\n\nDönüşüm kuralı: üçüncü kat ham saatinden 20 dakika çıkar. Örneğin ham 22.00 kaydı merkez saatte 21.40’tır.\n\nZemin kat giriş kamerası, otel bilgisayarları ve telefon kayıtları merkez saate bağlıdır; onlar için dönüşüm yapılmaz. Ham kayıtlar orijinal biçimiyle dosyada korunmuştur."
+    },
+    {
+      "id": "audio",
+      "title": "Ses kaydının dosya bilgileri",
+      "subtitle": "Kayıt ile gönderim farklı",
+      "symbol": "waveform",
+      "date": "24 Ekim • Dijital inceleme",
+      "body": "Leyla’nın telefonundaki ses dosyası 17.18’de kaydedilmiş. Düzenleme veya kesme tespit edilmedi.\n\nİçerik: “Bugünkü görüşmem bittiğinde belgeleri ayrıca göndereceğim. Oteldeyim, yarın yayından önce konuşuruz.”\n\nDosya, Leyla tarafından 17.22’de yayın ekibine 22.30’da gönderilecek şekilde zamanlanmış. Otomatik gönderim görevi başarıyla çalışmış. Bu uygulama davranışı bu kurmaca dosyanın doğrulanmış dijital bulgusudur.\n\n22.30 bir gönderim saatidir; o saatte yapılmış canlı konuşma veya yeni ses kaydı değildir."
+    },
+    {
+      "id": "nermin-statement",
+      "title": "Nermin’in ilk ifadesi",
+      "subtitle": "Otel yöneticisi",
+      "symbol": "person.text.rectangle",
+      "date": "24 Ekim • 23.50",
+      "body": "“Leyla o müzayede haberi için gelmişti. Konuyu yanlış anlamış. Ona yardımcı olmaya çalıştım.\n\n21.45–22.00 arasını resepsiyonda geçirdim. Üçüncü kata 22.00’den sonra çıktım. Kayıttaki ziyaretim kısa bir evrak bırakma işiydi; Leyla’yla tartışmadım. O sırada hâlâ hayattaydı.\n\nOtelin saatleri biraz karışık. Yanlış yorumlamayın.”"
+    },
+    {
+      "id": "draft",
+      "title": "Yayımlanmamış haber taslağı",
+      "subtitle": "Müzayede belgeleri",
+      "symbol": "doc.text",
+      "date": "24 Ekim • 19.10",
+      "body": "Leyla’nın taslağı, otelde düzenlenen müzayedelerde sahte eserlerin gerçekmiş gibi satıldığını belgeliyor. Uzman raporları ve satış kayıtları Nermin Acar’ın imzalı onaylarıyla eşleşiyor. Bu belgelerin gerçekliği dosya incelemesiyle doğrulandı.\n\nTaslak notu: “Nermin’e son yanıt hakkını bu gece vereceğim. Belgeleri sabah yayın ekibine teslim edeceğim.”\n\nOtelin ticari faaliyeti ve Nermin’in itibarı bu haberden doğrudan etkilenecek. Taslak diğer iki şüpheliyi sahte satışların karar vericisi olarak göstermiyor."
+    },
+    {
+      "id": "messages",
+      "title": "Leyla ile Nermin’in mesajları",
+      "subtitle": "Son görüşme",
+      "symbol": "bubble.left.and.bubble.right",
+      "date": "24 Ekim • 21.20–21.27",
+      "body": "Konuşma Leyla’nın telefonundan alındı. Gönderenler ve saatler merkez saate göre doğrulandı. Hiçbir ileti silinmemiş. Mesajlar, Nermin’in haberin ertesi sabah yayımlanacağını bildiğini gösteriyor.",
+      "conversation": {
+        "contact": "Nermin Acar",
+        "owner": "Leyla Demir",
+        "date": "24 Ekim",
+        "messages": [
+          {
+            "id": "o1",
+            "outgoing": true,
+            "time": "21.20",
+            "text": "Uzman raporlarıyla satış belgeleri eşleşti. Sabah yayımlıyoruz. Yanıtını bu gece alabilirim."
+          },
+          {
+            "id": "o2",
+            "outgoing": false,
+            "time": "21.22",
+            "text": "O haberi yayımlayamazsın. Yıllardır kurduğum her şeyi yok edeceksin."
+          },
+          {
+            "id": "o3",
+            "outgoing": true,
+            "time": "21.24",
+            "text": "Yanıt hakkın var. Ama belgeleri saklamayacağım."
+          },
+          {
+            "id": "o4",
+            "outgoing": false,
+            "time": "21.27",
+            "text": "Odaya geleceğim. Yüz yüze konuşalım."
+          }
+        ]
+      }
+    },
+    {
+      "id": "alibis",
+      "title": "Diğer şüphelilerin doğrulaması",
+      "subtitle": "Merkez saatle kontrol edildi",
+      "symbol": "person.2",
+      "date": "25 Ekim • 10.15",
+      "body": "Kerem Işık, Leyla’nın eski ortağı: 21.42–22.12 arasında zemin kattaki canlı yayın odasında iki çalışanla beraber. Kesintisiz kamera ve yayın kaydı merkez saatle doğrulandı. Leyla’yla geçmişte bir telif anlaşmazlığı var.\n\nAras Tunç, teknik görevli: 21.35–22.08 arasında sokaktaki dağıtım panosunda. Dış kamera ve iki görevlinin tanıklığı bunu doğruluyor. Onarım tartışması nedeniyle Leyla’ya kızgın olduğu söylendi, ancak ilgili zaman aralığında otele dönmedi.\n\nİkisi de ses kaydını gönderildiği saatte gördüğünü söylüyor. Hiçbiri 22.30’da Leyla’yla canlı konuştuğunu doğrulamıyor. Kayıttaki sesin o an kaydedildiği varsayımı ilk değerlendirmeyi yanıltmış."
+    }
+  ],
+  "suspects": [
+    {
+      "id": "nermin",
+      "name": "Nermin Acar",
+      "role": "Otel yöneticisi",
+      "initials": "NA",
+      "description": "Müzayede haberinin yayımlanmasını durdurmaya çalışıyordu.",
+      "questions": [
+        {
+          "id": "nermin-first",
+          "prompt": "Leyla’yla ne konuşacaktınız?",
+          "answer": "“O dosya otelin adını lekeleyecekti. Hata yaptığını anlatacaktım. Görüşme hakkımı kullanmak suç mu?”",
+          "requiresConnection": null,
+          "evidenceIDs": null
+        },
+        {
+          "id": "nermin-time",
+          "prompt": "Ham saat 22.14, gerçek saat 21.54. Ölüm aralığında odadaydın.",
+          "answer": "“Saat tutanağını görmediğinizi sandım. Evet, o saatte odadaydım. Haber yüzünden tartıştık. Çıkarken kapı arkamdan kapandı.”",
+          "requiresConnection": "clock-correction",
+          "evidenceIDs": [
+            "door-log",
+            "clock"
+          ]
+        },
+        {
+          "id": "nermin-threat",
+          "prompt": "Haberi biliyordun. Neden tüm hayatının biteceğini yazdın?",
+          "answer": "“Satışlara ben onay vermiştim. Haberin beni de bitireceğini biliyordum. Belgeleri vermesini istedim, kabul etmedi. Ona yardımcı olmaya gitmedim.”",
+          "requiresConnection": "publication-threat",
+          "evidenceIDs": [
+            "draft",
+            "messages"
+          ]
+        }
+      ],
+      "portraitAsset": "portrait-nermin"
+    },
+    {
+      "id": "kerem",
+      "name": "Kerem Işık",
+      "role": "Eski yayın ortağı",
+      "initials": "KI",
+      "description": "Leyla’yla telif ve para anlaşmazlığı vardı. Ses kaydını son duyanlardan.",
+      "questions": [
+        {
+          "id": "kerem-first",
+          "prompt": "Leyla’yı en son ne zaman duydun?",
+          "answer": "“22.30’da sesli mesaj geldi. Bildirimi görünce yaşadığını düşündüm. Aramadım, sadece kaydı dinledim.”",
+          "requiresConnection": null,
+          "evidenceIDs": null
+        },
+        {
+          "id": "kerem-recording",
+          "prompt": "Bu kayıt 17.18’de oluşturulmuş. Canlı konuşmadınız mı?",
+          "answer": "“Hayır. Bana o anda konuşuyormuş gibi geldi ama aslında eski kaydı dinlemişim. Saat konusunda yanlış bir varsayım yaptım.”",
+          "requiresConnection": "recording-time",
+          "evidenceIDs": [
+            "audio",
+            "medical"
+          ]
+        }
+      ],
+      "portraitAsset": "portrait-kerem"
+    },
+    {
+      "id": "aras",
+      "name": "Aras Tunç",
+      "role": "Teknik görevli",
+      "initials": "AT",
+      "description": "Yerel saat sistemini ve elektronik kilitleri tanıyor.",
+      "questions": [
+        {
+          "id": "aras-first",
+          "prompt": "Kapının kilitli olması ne anlama geliyor?",
+          "answer": "“307’nin kapısı kendi kapanır ve kilitlenir. Zincir yok. Dışarı çıkan birinin ayrıca anahtar çevirmesi gerekmez.”",
+          "requiresConnection": null,
+          "evidenceIDs": null
+        },
+        {
+          "id": "aras-clock",
+          "prompt": "Saat farkı kayıtlara sonradan müdahale edildiğini mi gösteriyor?",
+          "answer": "“Hayır. Sabit bir eşitleme hatası. Ham kaydı değiştirmiyoruz; merkez saate çevirmek için yirmi dakika çıkarıyoruz. Giriş sırası ve görüntü aynı kalıyor.”",
+          "requiresConnection": null,
+          "evidenceIDs": [
+            "clock"
+          ]
+        }
+      ],
+      "portraitAsset": "portrait-aras"
+    }
+  ],
+  "connections": [
+    {
+      "id": "clock-correction",
+      "documentIDs": [
+        "door-log",
+        "clock"
+      ],
+      "title": "Görünen saat, gerçek saat değil",
+      "explanation": "Üçüncü kat cihazları 20 dakika ileride. Nermin’in ham 22.14 girişi gerçek 21.54’e, 22.18 çıkışı 21.58’e karşılık geliyor. Bu, adli ölüm aralığının içinde."
+    },
+    {
+      "id": "publication-threat",
+      "documentIDs": [
+        "draft",
+        "messages"
+      ],
+      "title": "Haber, kişisel bir tehdide dönüştü",
+      "explanation": "Taslak Nermin’in imzalarını içeriyor. Mesajlar onun belgelere ve sabahki yayına haberdar olduğunu, bunu engellemeye çalıştığını gösteriyor."
+    },
+    {
+      "id": "recording-time",
+      "documentIDs": [
+        "audio",
+        "medical"
+      ],
+      "title": "Gönderim, hayatta olma kanıtı değil",
+      "explanation": "Adli zaman aralığı ile 22.30 gönderimi çelişiyor gibi görünse de ses dosyası 17.18’de kaydedilip zamanlanmış. Kayıt, ölüm saatini ileri taşımaz."
+    }
+  ],
+  "motives": [
+    {
+      "id": "publication",
+      "title": "Sahte eser satışlarını ifşa edecek haberi engellemek"
+    },
+    {
+      "id": "royalty",
+      "title": "Telif anlaşmazlığının intikamını almak"
+    },
+    {
+      "id": "maintenance",
+      "title": "Bakım hatasının ortaya çıkmasını önlemek"
+    }
+  ],
+  "solution": {
+    "suspectID": "nermin",
+    "motiveID": "publication",
+    "evidenceIDs": [
+      "medical",
+      "door-log",
+      "clock",
+      "draft"
+    ],
+    "alternativeEvidenceSets": [
+      [
+        "medical",
+        "door-log",
+        "clock",
+        "messages"
+      ]
+    ],
+    "requiredQuestionIDs": [
+      "nermin-time",
+      "nermin-threat"
+    ],
+    "explanation": "Kilitli oda görünüşü yanıltıcıydı: kapı, Nermin çıktıktan sonra kendiliğinden kilitlendi. Saat tutanağıyla düzeltilen kayıt Nermin’i 21.54–21.58 arasında odada gösteriyor; bu, adli ölüm aralığının içi. Başka ziyaretçi veya geçit yok ve kimliği görüntüyle doğrulanıyor.\n\n22.30’da giden kayıt ise saatler önce hazırlanmış ve zamanlanmıştı. Bu, Leyla’nın o sırada hayatta olduğuna kanıt değildi. Kerem ve Aras’ın gerçek ölüm aralığındaki konumları bağımsız kayıtlarla doğrulandı.\n\nNermin’in sahte eser satışlarına verdiği onaylar haberde yer alacaktı. Mesajları haberi durdurmak istediğini, yüzleştirmedeki yanıtları ise odaya gelişini sakladığını gösteriyor.",
+    "reconstruction": [
+      {
+        "id": "r1",
+        "time": "17.18–17.22",
+        "title": "Ses kaydı önceden hazırlandı",
+        "detail": "Leyla ses dosyasını oluşturdu ve yayın ekibine otomatik gönderim için zamanladı. Bu dosya daha sonra canlı konuşma sanıldı.",
+        "documentIDs": [
+          "audio"
+        ]
+      },
+      {
+        "id": "r2",
+        "time": "21.20–21.27",
+        "title": "Son yanıt hakkı verildi",
+        "detail": "Leyla belgeleri sabah yayımlayacağını yazdı. Nermin haberi engellemek için odasına geleceğini söyledi.",
+        "documentIDs": [
+          "messages",
+          "draft"
+        ]
+      },
+      {
+        "id": "r3",
+        "time": "21.54–21.58",
+        "title": "Ham kayıt çözüldü",
+        "detail": "Yerel saatte 22.14 görünen giriş aslında 21.54’tü. Nermin ölüm aralığında Leyla’yla yalnız kaldı, ardından kapı arkasından otomatik kilitlendi.",
+        "documentIDs": [
+          "door-log",
+          "clock",
+          "medical",
+          "scene"
+        ]
+      },
+      {
+        "id": "r4",
+        "time": "22.30–23.05",
+        "title": "Yanıltıcı bildirim ve keşif",
+        "detail": "Eski ses kaydı otomatik gönderildi. Polis daha sonra odada Leyla’yı buldu. Bildirimin zamanı ölüm saatini değiştirmiyordu.",
+        "documentIDs": [
+          "audio",
+          "scene"
+        ]
+      }
+    ]
+  },
+  "timeline": [
+    {
+      "id": "t4",
+      "title": "Nermin 307’ye girdi",
+      "time": "21.54 (merkez saat)",
+      "documentID": "door-log",
+      "sequence": 4
+    },
+    {
+      "id": "t2",
+      "title": "Leyla sabahki yayını Nermin’e bildirdi",
+      "time": "21.20",
+      "documentID": "messages",
+      "sequence": 2
+    },
+    {
+      "id": "t8",
+      "title": "Yerel saatin 20 dakika ileri olduğu doğrulandı",
+      "time": "25 Ekim • 07.20",
+      "documentID": "clock",
+      "sequence": 8
+    },
+    {
+      "id": "t6",
+      "title": "Önceden hazırlanan ses kaydı gönderildi",
+      "time": "22.30",
+      "documentID": "audio",
+      "sequence": 6
+    },
+    {
+      "id": "t1",
+      "title": "Ses kaydı oluşturuldu",
+      "time": "17.18",
+      "documentID": "audio",
+      "sequence": 1
+    },
+    {
+      "id": "t5",
+      "title": "Nermin odadan çıktı, kapı kilitlendi",
+      "time": "21.58 (merkez saat)",
+      "documentID": "door-log",
+      "sequence": 5
+    },
+    {
+      "id": "t7",
+      "title": "Polis 307’nin kapısını açtı",
+      "time": "23.05",
+      "documentID": "scene",
+      "sequence": 7
+    },
+    {
+      "id": "t3",
+      "title": "Leyla odasına girdi",
+      "time": "21.40 (merkez saat)",
+      "documentID": "door-log",
+      "sequence": 3
+    }
+  ],
+  "hints": [
+    "Önce adli ölüm aralığını oku. Kapının kendi kendine kilitlenmesi neyi değiştiriyor?",
+    "Üçüncü katın ham saatinden 20 dakika çıkarmalısın. Erişim dökümünü saat tutanağıyla birlikte Nermin’e sun.",
+    "Haber taslağı ile mesajları Nermin’e birlikte sunarak motivasyonu sorgula. 22.30’daki ses kaydının dosya bilgilerini incele; gönderim saati kayıt saati değil.",
+    "Son raporda adli rapor, erişim dökümü, saat tutanağı ve haber taslağını (veya mesajları) kullan. Nermin’in iki temel yüzleştirmesi tamamlanmış olmalı."
+  ]
+}

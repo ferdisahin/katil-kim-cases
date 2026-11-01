@@ -1,0 +1,31 @@
+[
+  {
+    "id": "son-vapur",
+    "title": "Son Vapur",
+    "teaser": "Son sefer kalkmadan birisi susturuldu. Geriye bir fincan ve bir yalan kaldı.",
+    "coverAsset": "cover-son-vapur",
+    "resourceName": "son-vapur"
+  },
+  {
+    "id": "oda-307",
+    "title": "Oda 307",
+    "teaser": "Kapı kilitliydi. Bir kayıt ise ölü birinin hâlâ konuştuğunu söylüyordu.",
+    "coverAsset": "cover-oda-307",
+    "resourceName": "oda-307"
+  },
+  {
+    "id": "sessiz-hat",
+    "title": "Sessiz Hat",
+    "teaser": "Gece yarısı gelen aramada kimse konuşmadı. Peki hattın öbür ucunda kim vardı?",
+    "coverAsset": "cover-sessiz-hat",
+    "resourceName": "sessiz-hat"
+  },
+  {
+    "id": "kuzguncuk-cikmazi",
+    "title": "Kuzguncuk Çıkmazı",
+    "teaser": "Boğaz kıyısındaki yalıda antika bir heykel parçalandı. Katil, geride ıslak bir ayak izi ve sahte bir rapor bıraktı.",
+    "coverAsset": "cover-kuzguncuk",
+    "resourceName": "kuzguncuk-cikmazi"
+  }
+]
+

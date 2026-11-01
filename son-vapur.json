@@ -1,0 +1,336 @@
+{
+  "id": "son-vapur",
+  "number": "001",
+  "title": "Son Vapur",
+  "location": "Kadıköy, İstanbul",
+  "duration": "10–20 dk",
+  "difficulty": "Başlangıç",
+  "teaser": "Bir fincan çay. Üç şüpheli. Son seferden önce söylenmiş bir yalan.",
+  "brief": "İskelenin işletme müdürü Orhan Saygın, son vapur kalkmadan hemen önce ofisinde ölü bulundu. İlk bakışta sıradan bir gece. Masadaki fincan ise başka bir hikâye anlatıyor.\n\nDosyayı incele, ifadeleri kayıtlarla karşılaştır ve bir kişiyi suçlamadan önce kanıt zincirini kur.",
+  "documents": [
+    {
+      "id": "scene",
+      "title": "Olay yeri tutanağı",
+      "subtitle": "İlk inceleme",
+      "symbol": "doc.text.magnifyingglass",
+      "date": "22 Ekim • 21.40",
+      "body": "Kadıköy iskelesindeki işletme ofisinde müdür Orhan Saygın, 21.40’ta masasında ölü bulundu. Kapıda zorlama yok.\n\nMasada yarım kalmış bir fincan çay ve incelenmeyi bekleyen hesap dökümleri var. Koridordaki ortak çay tezgâhında kapalı bir termos bulunuyor. Ofisin tek girişi koridora açılıyor. Pencereler içeriden kilitli, başka geçiş bulunmuyor.\n\nGörevli memur, fincanı ve koridordaki termosu ayrı ayrı mühürleyerek laboratuvara gönderdi. Koridor kamerasının saat ayarı merkez saatiyle eşleşiyor."
+    },
+    {
+      "id": "medical",
+      "title": "Adli inceleme raporu",
+      "subtitle": "Ölüm nedeni",
+      "symbol": "cross.case",
+      "date": "23 Ekim • 09.10",
+      "body": "Ölüm nedeni: çaya dışarıdan karıştırılmış zehirli bir madde. Madde yalnızca fincandaki çayda tespit edildi; termostaki çayda bulunmadı.\n\nBulgular, maddenin 21.10–21.15 arasında alındığını ve ölümün 21.15–21.25 arasında gerçekleştiğini gösteriyor. Bu zaman aralığı olay yeri bulgularıyla birlikte değerlendirilerek doğrulandı.\n\nMağdurun yanında ilaç, ek yiyecek veya başka içecek bulunmadı."
+    },
+    {
+      "id": "camera",
+      "title": "Koridor kamera dökümü",
+      "subtitle": "Giriş ve çıkışlar",
+      "symbol": "video",
+      "date": "22 Ekim • 21.00–21.40",
+      "body": "21.00 — Orhan ofise giriyor. Elinde yalnızca hesap dökümleri var.\n21.05 — Güvenlik görevlisi Cem vardiya çizelgesini bırakıp çıkıyor. Masada henüz fincan yok.\n21.11 — Ece koridordaki tezgahta yeni bir fincanın kapalı ambalajını açıyor ve ortak termostan çay dolduruyor. Fincan, kapalı ambalajdan ofise girene kadar yalnızca Ece’nin elinde.\n21.12 — Ece elinde çay dolu fincanla ofise giriyor.\n21.17 — Ece ofisten çıkıyor.\n21.35 — Cem kapıyı çalıyor, yanıt alamıyor.\n21.40 — Cem yedek anahtarla kapıyı açıyor ve yardım çağırıyor.\n\n21.05–21.35 arasında ofise başka kimse girmedi. Kayıt kesintisiz; çay tezgâhı ve ofis kapısı aynı karede. Görüntü, Ece’nin yüzünü açıkça gösteriyor.",
+      "camera": {
+        "asset": "son-vapur-camera",
+        "label": "Koridor • Kamera 02",
+        "timestamp": "22 EKİM • 21:12:08",
+        "description": "Yüksek köşe açılı siyah beyaz koridor kaydı. Ece, elinde beyaz bir fincanla ofis kapısına yaklaşıyor. Koridorun diğer yanında ortak çay tezgâhı var."
+      }
+    },
+    {
+      "id": "ece-statement",
+      "title": "Ece’nin ilk ifadesi",
+      "subtitle": "Muhasebe sorumlusu",
+      "symbol": "person.text.rectangle",
+      "date": "22 Ekim • 23.05",
+      "body": "“Orhan Bey’le hesaplar yüzünden tartıştık ama günlük bir şeydi. Saat 21.00’de iskeleden çıktım ve eve gittim. O saatten sonra ofise hiç girmedim.\n\nÇayını hep kendisi hazırlardı. O akşam ona bir şey götürmedim. Cem de beni çıkarken görmüş olabilir.”"
+    },
+    {
+      "id": "ledger",
+      "title": "Hesap denetim notu",
+      "subtitle": "Para hareketleri",
+      "symbol": "doc.plaintext",
+      "date": "22 Ekim • 18.30",
+      "body": "İç denetim: Aynı hizmet için düzenlenmiş mükerrer ödemeler, Ece Aral’ın tek başına yetkili olduğu hesaba aktarılmış. Kayıtlardaki onaylar Ece’nin kullanıcı hesabından verilmiş.\n\nOrhan’ın notu: “Ece ile bu akşam görüşeceğim. Açıklama gelmezse sabah dekontlarla birlikte suç duyurusunda bulunacağım.”\n\nNotun ve hesap kayıtlarının gerçekliği dijital incelemeyle doğrulandı."
+    },
+    {
+      "id": "alibis",
+      "title": "Diğer şüphelilerin kayıtları",
+      "subtitle": "Tanık ve kamera doğrulaması",
+      "symbol": "person.2",
+      "date": "23 Ekim • 10.00",
+      "body": "Cem Yalın, güvenlik görevlisi: 21.08–21.32 arasında iskele girişinde. Kesintisiz giriş kamerası ve iki görevlinin ifadesi bunu doğruluyor. 21.05’te bıraktığı şey vardiya çizelgesiydi. Ece’nin daha sonra kullandığı fincan o sırada kapalı ambalajındaydı.\n\nDeniz Saygın, mağdurun kardeşi: 20.55–21.35 arasında karşı kıyıya giden vapurda. Biniş kaydı ve kesintisiz salon kamerası doğrulandı.\n\nHer ikisinin de Orhan’la anlaşmazlığı var. Ancak zehrin alındığı zaman aralığında ofise erişimleri olmadığı doğrulandı."
+    },
+    {
+      "id": "messages",
+      "title": "Orhan ile Ece’nin mesajları",
+      "subtitle": "Telefondan alınan konuşma kaydı",
+      "symbol": "bubble.left.and.bubble.right",
+      "date": "22 Ekim • 20.39–20.43",
+      "body": "Dijital inceleme notu: Konuşma Orhan’ın telefonundan alındı. Gönderenler, saatler ve mesaj sırası doğrulandı; bu aralıkta silinen ileti yok. Mesajlar, Orhan’ın denetim bulgularını o akşam Ece’ye bildirdiğini gösteriyor.\n\nTüm mesajlar bu oyun için yazılmış kurmaca içeriktir.",
+      "conversation": {
+        "contact": "Ece Aral",
+        "owner": "Orhan Saygın",
+        "date": "22 Ekim",
+        "messages": [
+          {
+            "id": "m1",
+            "outgoing": true,
+            "time": "20.39",
+            "text": "Ece, mükerrer ödemeleri gördüm. Hepsi senin yetkili olduğun hesaba gitmiş."
+          },
+          {
+            "id": "m2",
+            "outgoing": false,
+            "time": "20.40",
+            "text": "Telefonda konuşmayalım. Yanlış anladığın şeyler var."
+          },
+          {
+            "id": "m3",
+            "outgoing": true,
+            "time": "20.41",
+            "text": "Dekontlar önümde. Bu gece açıklamazsan sabah suç duyurusunda bulunacağım."
+          },
+          {
+            "id": "m4",
+            "outgoing": false,
+            "time": "20.42",
+            "text": "Lütfen sabaha kadar bekle. Her şeyi anlatacağım."
+          },
+          {
+            "id": "m5",
+            "outgoing": true,
+            "time": "20.43",
+            "text": "Ofiste olacağım. Konuyu kapatmayacağım, Ece."
+          }
+        ]
+      }
+    }
+  ],
+  "suspects": [
+    {
+      "id": "ece",
+      "name": "Ece Aral",
+      "role": "Muhasebe sorumlusu",
+      "initials": "EA",
+      "description": "Kayıp paranın hesabını vermek üzere Orhan’la görüşecekti.",
+      "questions": [
+        {
+          "id": "ece-first",
+          "prompt": "Orhan’la aranız nasıldı?",
+          "answer": "“İş yerinde herkes tartışır. Hesaplarda yanlışlık olduğunu söyledim. Beni dinlemedi.”",
+          "requiresConnection": null
+        },
+        {
+          "id": "ece-camera",
+          "prompt": "21.12’de ofistesin. Neden bunu sakladın?",
+          "answer": "“Tamam, geri döndüm. Çayı ben götürdüm ve bir süre yanında kaldım. Hesapları polise vereceğini söyledi. Korktum; orada olduğum öğrenilirse doğrudan benden şüphelenirsiniz sandım.”",
+          "requiresConnection": "ece-lie",
+          "evidenceIDs": [
+            "ece-statement",
+            "camera"
+          ]
+        },
+        {
+          "id": "ece-money",
+          "prompt": "Mesajlar ve dekontlar aynı şeyi söylüyor. Neden sabaha kadar beklemesini istedin?",
+          "answer": "“Hesaplara giren parayı geri koyacaktım. İmzaları görmüştü. Sabah polise giderse artık düzeltemeyeceğimi düşündüm. Bunu kimseden saklayamadım.”",
+          "requiresConnection": "money-pressure",
+          "evidenceIDs": [
+            "ledger",
+            "messages"
+          ]
+        }
+      ],
+      "portraitAsset": "portrait-ece"
+    },
+    {
+      "id": "cem",
+      "name": "Cem Yalın",
+      "role": "Güvenlik görevlisi",
+      "initials": "CY",
+      "description": "Cesedi bulan kişi. İşten çıkarılacağını öğrenmişti.",
+      "questions": [
+        {
+          "id": "cem-first",
+          "prompt": "Kapıyı açmadan önce ne oldu?",
+          "answer": "“21.05’te vardiya çizelgesini bıraktım. Sonra giriş nöbetine döndüm. 21.35’te imza almaya geldim, kapıyı çaldım. Yanıt gelmeyince yedek anahtarı aldım.”",
+          "requiresConnection": null
+        },
+        {
+          "id": "cem-alibi",
+          "prompt": "Giriş kamerası seni olay sırasında başka yerde gösteriyor. Son gördüğün neydi?",
+          "answer": "“Olayın olduğu dakikalarda girişteydim. Sonra Ece’yi dönerken gördüm; acele ediyordu. O an bunun önemli olacağını düşünmedim.”",
+          "requiresConnection": null,
+          "evidenceIDs": [
+            "alibis"
+          ]
+        }
+      ],
+      "portraitAsset": "portrait-cem"
+    },
+    {
+      "id": "deniz",
+      "name": "Deniz Saygın",
+      "role": "Mağdurun kardeşi",
+      "initials": "DS",
+      "description": "Ağabeyiyle miras konusunda anlaşmazlık yaşıyordu.",
+      "questions": [
+        {
+          "id": "deniz-first",
+          "prompt": "Bu akşam ağabeyini gördün mü?",
+          "answer": "“Telefonla tartıştık. Görüşmeye gitmedim, vapura bindim. Miras için kavga ediyorduk; ama bu onun ölmesini istediğim anlamına gelmez.”",
+          "requiresConnection": null
+        },
+        {
+          "id": "deniz-alibi",
+          "prompt": "Vapur kaydını doğruladık. Ağabeyinle tartışmanız ne hakkındaydı?",
+          "answer": "“Aile evini satmak istiyordu. Bana kızgındı, ben de ona. Ama o akşam vapurdaydım; yanına gitmedim. Tekrar konuşmak için sabahı bekliyordum.”",
+          "requiresConnection": null,
+          "evidenceIDs": [
+            "alibis"
+          ]
+        }
+      ],
+      "portraitAsset": "portrait-deniz"
+    }
+  ],
+  "connections": [
+    {
+      "id": "ece-lie",
+      "documentIDs": [
+        "ece-statement",
+        "camera"
+      ],
+      "title": "Ece’nin saatleri uyuşmuyor",
+      "explanation": "Ece, 21.00’den sonra ofise girmediğini söylüyor. Kamera ise onu 21.12’de çayla birlikte kaydetmiş. Bu çelişkiyi sorguda kullanabilirsin."
+    },
+    {
+      "id": "money-pressure",
+      "documentIDs": [
+        "ledger",
+        "messages"
+      ],
+      "title": "Sabaha kalmayan hesap",
+      "explanation": "Denetim notundaki suç duyurusu planı, mesajlarda Ece’ye açıkça iletilmiş. Ece, usulsüz ödemelerin o gece ortaya çıktığını biliyordu."
+    }
+  ],
+  "motives": [
+    {
+      "id": "money",
+      "title": "Usulsüz ödemelerin ortaya çıkmasını engellemek"
+    },
+    {
+      "id": "inheritance",
+      "title": "Mirasın tek sahibi olmak"
+    },
+    {
+      "id": "revenge",
+      "title": "İşten çıkarılmanın intikamını almak"
+    }
+  ],
+  "solution": {
+    "suspectID": "ece",
+    "motiveID": "money",
+    "evidenceIDs": [
+      "medical",
+      "camera",
+      "ledger"
+    ],
+    "requiredQuestionIDs": [
+      "ece-camera"
+    ],
+    "explanation": "Ece, usulsüz ödemeler ortaya çıkmadan Orhan’ı susturmak istedi. Zehir yalnızca fincandaydı; termostaki çay temizdi. Kamera, fincanın ambalajını açan, temiz termostan çay dolduran ve zehrin alındığı zaman aralığında ofise çayla giren tek kişinin Ece olduğunu gösteriyor. Fincana başka kimsenin erişimi yoktu. Diğer iki şüphelinin o sırada başka yerde bulunduğu doğrulanmıştı.\n\nEce’nin ilk ifadesi kamera kaydıyla çelişiyordu. Yüzleştirilince çayı götürdüğünü kabul etti. Denetim notu ise neden yalan söylediğini açıklayan maddi motivasyonu ortaya koydu.",
+    "alternativeEvidenceSets": [
+      [
+        "medical",
+        "camera",
+        "messages"
+      ]
+    ],
+    "reconstruction": [
+      {
+        "id": "r1",
+        "time": "18.30",
+        "title": "Usulsüz ödemeler bulundu",
+        "detail": "Orhan, Ece’nin hesabına giden mükerrer ödemeleri belgeledi ve sabah suç duyurusunda bulunmaya karar verdi.",
+        "documentIDs": [
+          "ledger"
+        ]
+      },
+      {
+        "id": "r2",
+        "time": "20.41",
+        "title": "Ece haberdar oldu",
+        "detail": "Orhan’ın mesajı, denetim sonucunun artık gizli kalmayacağını gösterdi. Ece sabaha kadar zaman istedi.",
+        "documentIDs": [
+          "messages"
+        ]
+      },
+      {
+        "id": "r3",
+        "time": "21.11–21.17",
+        "title": "Fincan ofise taşındı",
+        "detail": "Ece temiz termostan doldurduğu fincanla içeri girdi. Zehir yalnızca onun taşıdığı fincanda bulundu. Bu aralıkta başka ziyaretçi yoktu.",
+        "documentIDs": [
+          "medical",
+          "camera"
+        ]
+      },
+      {
+        "id": "r4",
+        "time": "21.40",
+        "title": "Cinayet ortaya çıktı",
+        "detail": "Cem Orhan’ı buldu. Ece ilk ifadesinde geri döndüğünü sakladı; kamera ve ifade birlikte sunulunca yalanı sürdüremedi.",
+        "documentIDs": [
+          "scene",
+          "ece-statement",
+          "camera"
+        ]
+      }
+    ]
+  },
+  "hints": [
+    "Adli rapordaki zaman aralığında ofise kim girebilmiş? İfadeler ile kamera dökümünü karşılaştır.",
+    "Ece’nin ilk ifadesi ve koridor kamerasını oku. Ece’nin sorgusunda Kanıt sun düğmesine dokunup bu iki belgeyi birlikte sun.",
+    "Son raporda adli inceleme ve kamera dökümünü, hesap denetim notu veya mesajlaşma kaydıyla birleştir. Fail ve motivasyon için Ece’nin sakladıklarını düşün."
+  ],
+  "timeline": [
+    {
+      "id": "t4",
+      "title": "Ece ofisten ayrıldı",
+      "time": "21.17",
+      "documentID": "camera",
+      "sequence": 4
+    },
+    {
+      "id": "t2",
+      "title": "Orhan suç duyurusu yapacağını yazdı",
+      "time": "20.41",
+      "documentID": "messages",
+      "sequence": 2
+    },
+    {
+      "id": "t5",
+      "title": "Cem, Orhan’ı ofiste buldu",
+      "time": "21.40",
+      "documentID": "scene",
+      "sequence": 5
+    },
+    {
+      "id": "t1",
+      "title": "Orhan denetim notunu hazırladı",
+      "time": "18.30",
+      "documentID": "ledger",
+      "sequence": 1
+    },
+    {
+      "id": "t3",
+      "title": "Ece çayla ofise girdi",
+      "time": "21.12",
+      "documentID": "camera",
+      "sequence": 3
+    }
+  ]
+}

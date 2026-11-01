@@ -1,0 +1,354 @@
+{
+  "id": "kuzguncuk-cikmazi",
+  "number": "004",
+  "title": "Kuzguncuk Çıkmazı",
+  "location": "Kuzguncuk, İstanbul",
+  "duration": "15–25 dk",
+  "difficulty": "Orta",
+  "teaser": "Boğaz kıyısındaki yalıda antika bir heykel parçalandı. Katil, geride ıslak bir ayak izi ve sahte bir rapor bıraktı.",
+  "brief": "Kuzguncuk sahilindeki tarihi yalıda ünlü koleksiyoner Selim Vural, çalışma odasında başından darbe alarak öldürüldü. Antika dolabı zorlanmış, değerli bir zümrüt broş kaybolmuştu.\n\nOlay gecesi yağan sağanak yağmur, yalıya giren ve çıkanların izlerini bahçede bıraktı. Üç şüphelinin ifadeleri, kamera kayıtları ve uzman raporları arasındaki çelişkileri bulup cinayeti aydınlat.",
+  "documents": [
+    {
+      "id": "scene",
+      "title": "Olay yeri tutanağı",
+      "subtitle": "İlk inceleme",
+      "symbol": "doc.text.magnifyingglass",
+      "date": "28 Ekim • 23.10",
+      "body": "Kuzguncuk sahil yolundaki Vural Yalısı'nın zemin kat çalışma odasında Selim Vural (62), çalışma masasının arkasında başından darbe almış halde ölü bulundu. Olay yerinde antika mermer bir büstün parçalandığı ve üzerinde kan izleri olduğu tespit edildi.\n\nOdada bulunan vitrin kapağı sert bir cisimle kırılmış, envanterde kayıtlı 19. yüzyıl Osmanlı zümrüt broşunun yerinde olmadığı görüldü. Olay gecesi İstanbul genelinde şiddetli yağmur vardı. Bahçe kapısından çalışma odasının veranda kapısına kadar uzanan 42 numara çamurlu ayakkabı izleri tespit edildi.\n\nİzlerin yönü verandadan içeri giriş ve bahçe kapısına doğru hızlı çıkış şeklindedir."
+    },
+    {
+      "id": "medical",
+      "title": "Adli tıp otopsi raporu",
+      "subtitle": "Ölüm nedeni ve saati",
+      "symbol": "cross.case",
+      "date": "29 Ekim • 09.30",
+      "body": "Ölüm nedeni: Kafatasının arka sol temporal bölgesine sert ve köşeli bir cisimle (olay yerindeki mermer büst ile uyumlu) vurulması sonucu meydana gelen beyin kanaması ve kafa travması.\n\nCesedin vücut sıcaklığı, rigor mortis düzeyi ve mide içeriği analizi neticesinde ölüm saatinin 28 Ekim akşamı saat 22.05 ile 22.20 arasında gerçekleştiği kesinleşmiştir.\n\nKurbanın tırnak altlarında herhangi bir DNA dokusuna rastlanmamış olup, saldırının arkadan aniden yapıldığı belirlenmiştir."
+    },
+    {
+      "id": "camera",
+      "title": "Bahçe kapısı CCTV dökümü",
+      "subtitle": "Giriş ve çıkışlar",
+      "symbol": "video",
+      "date": "28 Ekim • 21.30–23.00",
+      "body": "Vural Yalısı ana bahçe kapısını gören tek güvenlik kamerasının kayıt dökümü:\n\n21.45 — Leyla Soydan yalıdan çıkıp aracına biniyor.\n22.05 — Koyu renk trençkotlu ve şemsiyeli bir erkek bahçe kapısından içeri giriyor.\n22.18 — Aynı erkek şahıs şemsiyesini açmadan, koşar adım bahçe kapısından çıkarak sahil yolu yönüne uzaklaşıyor.\n22.40 — Tarık Vural bahçe kapısından giriyor ve 22.43'te telaşla polisi arıyor.\n\n22.05–22.18 aralığı dışında bahçe kapısından başka hiçbir giriş-çıkış olmamıştır. Sahil cephesindeki rıhtım kapısı ise içeriden kilitli ve mühürlüdür.",
+      "camera": {
+        "asset": "kuzguncuk-camera",
+        "label": "Bahçe Kapısı • Kamera 01",
+        "timestamp": "28 EKİM • 22:05:14",
+        "description": "Siyah-beyaz gece görüşlü güvenlik kamerası kaydı. Yağmur altında uzun trençkotlu bir erkek bahçe kapısından yalı bahçesine adım atıyor."
+      }
+    },
+    {
+      "id": "kemal-statement",
+      "title": "Kemal Erdem’in ilk ifadesi",
+      "subtitle": "Antika eksperi",
+      "symbol": "person.text.rectangle",
+      "date": "29 Ekim • 01.15",
+      "body": "“Selim Bey benim yirmi yıllık dostum ve en değerli müşterimdi. Ölümüne hâlâ inanamıyorum.\n\nO akşam Kadıköy Moda'daki ofisimde katalog çalışmaları yapıyordum. Gece yarısına kadar ofisten hiç çıkmadım, ardından doğrudan eve geçtim. Kuzguncuk'a en son geçen hafta uğramıştım. Selim Bey ile aramızda hiçbir husumet yoktu.”"
+    },
+    {
+      "id": "leyla-statement",
+      "title": "Leyla Soydan’ın ifadesi",
+      "subtitle": "Müzayede yöneticisi",
+      "symbol": "person.text.rectangle",
+      "date": "29 Ekim • 02.00",
+      "body": "“Önümüzdeki ay düzenlenecek Boğaziçi Müzayedesi için Selim Bey'in koleksiyonundaki birkaç parçayı seçmeye gelmiştim. Saat 20.30 gibi yalıdaydım.\n\nSelim Bey son derece gergindi. Telefonunda sürekli bir mesajlaşma trafiği vardı. Bana 'Bir dostun ihanetini temizlemek zorundayım' dedi. Saat 21.45'te ayrıldım. Çıkarken Kemal Erdem'in birazdan geleceğini, bu meseleyi bu gece halledeceklerini söylemişti.”"
+    },
+    {
+      "id": "tarik-statement",
+      "title": "Tarık Vural’ın ifadesi",
+      "subtitle": "Yeğen ve mirasçı",
+      "symbol": "person.text.rectangle",
+      "date": "29 Ekim • 02.45",
+      "body": "“Amcamla aram bir süredir açıktı; borçlarım yüzünden bana yardım etmeyi reddediyordu. Akşam Beşiktaş'ta arkadaşlarımla maç izledim, ardından konuşmak için 22.40'ta yalıya geldim.\n\nBahçe kapısı aralıktı, verandadan içeri baktığımda amcamı yerde kanlar içinde gördüm. Hemen 112 ve polisi aradım. Dolaptaki zümrüt broşun çalındığını polisler geldiğinde fark ettim.”"
+    },
+    {
+      "id": "appraisal-report",
+      "title": "Ekspertiz sahtecilik raporu",
+      "subtitle": "Denetim belgesi",
+      "symbol": "doc.plaintext",
+      "date": "28 Ekim • 17.00",
+      "body": "Türkiye Tarihi Eserler Vakfı bağımsız laboratuvar sonucu:\n\nSelim Vural koleksiyonuna Kemal Erdem ekspertiz onayıyla kazandırılan '18. Yüzyıl Ceneviz Vazo' ve 'Venedik Altın Kadeh' parçalarının orijinal olmadığı, sonradan eskitilmiş yüksek kaliteli imitasyon olduğu kesinleşmiştir. Toplam sahte ekspertiz bedeli 420.000 Dolar olarak hesaplanmıştır.\n\nSelim Vural'ın el yazısı notu: 'Kemal beni dolandırdı. Yarın sabah Cumhuriyet Başsavcılığı'na bizzat gidip suç duyurusunda bulunacağım.'"
+    },
+    {
+      "id": "messages",
+      "title": "Selim ile Kemal’in mesajları",
+      "subtitle": "Telefondan alınan konuşma kaydı",
+      "symbol": "bubble.left.and.bubble.right",
+      "date": "28 Ekim • 20.15–20.24",
+      "body": "Dijital inceleme notu: Selim Vural'ın telefonundan kurtarılan WhatsApp yazışmaları. Kayıtlar silinmemiş ve orijinal saat damgalarıyla eşleşmektedir.",
+      "conversation": {
+        "contact": "Kemal Erdem",
+        "owner": "Selim Vural",
+        "date": "28 Ekim",
+        "messages": [
+          {
+            "id": "m1",
+            "outgoing": true,
+            "time": "20.15",
+            "text": "Kemal, vakıftan gelen rapor elimde. Vazo ve kadeh sahteymiş. Sen beni yıllardır dolandırıyor musun?"
+          },
+          {
+            "id": "m2",
+            "outgoing": false,
+            "time": "20.18",
+            "text": "Selim sakin ol lütfen, laboratuvar yanılıyor olabilir. Hemen gelip konuşalım."
+          },
+          {
+            "id": "m3",
+            "outgoing": true,
+            "time": "20.20",
+            "text": "Yarın sabah savcılıktayım. Kariyerin bitti Kemal."
+          },
+          {
+            "id": "m4",
+            "outgoing": false,
+            "time": "20.22",
+            "text": "Yalvarırım bekle, bu gece yalıya geliyorum. Her şeyi telafi edeceğim, hayatımı karartma."
+          },
+          {
+            "id": "m5",
+            "outgoing": true,
+            "time": "20.24",
+            "text": "Kapıyı açacağım ama kararım değişmeyecek."
+          }
+        ]
+      }
+    }
+  ],
+  "suspects": [
+    {
+      "id": "kemal",
+      "name": "Kemal Erdem",
+      "role": "Antika eksperi",
+      "initials": "KE",
+      "description": "Selim Bey'in 20 yıllık danışmanı. Sahte antika satışı suçlamasıyla karşı karşıyaydı.",
+      "questions": [
+        {
+          "id": "kemal-first",
+          "prompt": "Olay gecesi Selim Vural ile görüştünüz mü?",
+          "answer": "“Hayır, kesinlikle hayır. Moda'daki ofisimde sabahladım. Selim Bey ile en ufak bir sorunumuz yoktu.”",
+          "requiresConnection": null
+        },
+        {
+          "id": "kemal-camera",
+          "prompt": "Saat 22.05'te bahçe kapısından içeri girip 22.18'de koşarak çıktığınız kamerada görülüyor. Neden yalan söylediniz?",
+          "answer": "“Kahretsin... Evet, oradaydım! Yalıya gittim. Savcılığa gitmemesi için yalvardım ama beni kovdu. Tartışırken kontrolümü kaybettim... Büstü aldığımı hatırlıyorum. Sonra hırsızlık süsü vermek için dolaptan broşu aldım ve kaçtım!”",
+          "requiresConnection": "kemal-lie",
+          "evidenceIDs": [
+            "kemal-statement",
+            "camera"
+          ]
+        },
+        {
+          "id": "kemal-fraud",
+          "prompt": "Selim Bey sahte ekspertiz raporunu öğrendiğinde savcılığa gideceğini yazmıştı. O gece yalıya bu yüzden mi gittiniz?",
+          "answer": "“Mesajları görmüşsünüz... Yirmi yıllık itibarım bir gecede sıfırlanacaktı. Hapse girmeyi göze alamazdım. Onu ikna edebileceğimi sanmıştım ama Nuh dedi peygamber demedi.”",
+          "requiresConnection": "fraud-motive",
+          "evidenceIDs": [
+            "appraisal-report",
+            "messages"
+          ]
+        }
+      ],
+      "portraitAsset": "portrait-kemal"
+    },
+    {
+      "id": "leyla",
+      "name": "Leyla Soydan",
+      "role": "Müzayede yöneticisi",
+      "initials": "LS",
+      "description": "Koleksiyonun müzayede haklarını yönetiyordu. Olay gecesi yalıdaki son ziyaretçilerden biriydi.",
+      "questions": [
+        {
+          "id": "leyla-first",
+          "prompt": "Selim Bey ile ilişkiniz nasıldı?",
+          "answer": "“Profesyonel bir ilişkimiz vardı. Koleksiyonunu sergilemek benim için bir onurdu. Ölümü sanat camiası için büyük bir kayıp.”",
+          "requiresConnection": null
+        },
+        {
+          "id": "leyla-alibi",
+          "prompt": "Kamera saat 21.45'te çıktığınızı doğruluyor. Ayrılırken içeride şüpheli bir şey gördünüz mü?",
+          "answer": "“Hayır, Selim Bey sağ salimdi. Sadece Kemal Erdem ile sert bir hesaplaşma yapacağını söylemişti. O yüzden erkenden ayrıldım.”",
+          "requiresConnection": null,
+          "evidenceIDs": [
+            "camera",
+            "leyla-statement"
+          ]
+        }
+      ],
+      "portraitAsset": "portrait-leyla"
+    },
+    {
+      "id": "tarik",
+      "name": "Tarık Vural",
+      "role": "Yeğen ve mirasçı",
+      "initials": "TV",
+      "description": "Kumar ve borsa borçları olan tek mirasçı. Cesedi ilk bulan kişi.",
+      "questions": [
+        {
+          "id": "tarik-first",
+          "prompt": "Amcanızla aranızdaki miras ve para sorunları ne boyuttaydı?",
+          "answer": "“Param bittiğinde amcamdan borç isterdim, kızardı ama sonunda hep verirdi. Onu ben öldürmedim, bana inanmak zorundasınız.”",
+          "requiresConnection": null
+        },
+        {
+          "id": "tarik-arrival",
+          "prompt": "Kamera kayıtları saat 22.40'ta geldiğinizi gösteriyor. Amcanızı nasıl buldunuz?",
+          "answer": "“Veranda kapısı aralıktı, ışık yanıyordu. İçeri girdiğimde amcam yerde yatıyordu. Çok korktum, hemen ambulans ve polisi aradım.”",
+          "requiresConnection": null,
+          "evidenceIDs": [
+            "camera",
+            "tarik-statement"
+          ]
+        }
+      ],
+      "portraitAsset": "portrait-tarik"
+    }
+  ],
+  "connections": [
+    {
+      "id": "kemal-lie",
+      "documentIDs": [
+        "kemal-statement",
+        "camera"
+      ],
+      "title": "Kemal'in Moda yalanı çöktü",
+      "explanation": "Kemal Erdem ifadesinde tüm gece Moda'daki ofisinde olduğunu öne sürdü. Oysa güvenlik kamerası 22.05'te yalıya girdiğini ve 22.18'de kaçtığını net biçimde belgeliyor."
+    },
+    {
+      "id": "fraud-motive",
+      "documentIDs": [
+        "appraisal-report",
+        "messages"
+      ],
+      "title": "Sahte ekspertiz şantajı",
+      "explanation": "Vakfın sahtecilik raporu ve WhatsApp mesajları, Selim Vural'ın Kemal'i savcılığa şikayet etmek üzere olduğunu ve Kemal'in bunu engellemek için yalıya geldiğini kanıtlıyor."
+    }
+  ],
+  "motives": [
+    {
+      "id": "fraud",
+      "title": "Sahte ekspertiz raporunun ve dolandırıcılığın polise bildirilmesini engellemek"
+    },
+    {
+      "id": "inheritance",
+      "title": "Yalı ve koleksiyonun miras yoluyla devralınması"
+    },
+    {
+      "id": "debt",
+      "title": "Kumar borçlarını kapatmak için antika zümrüt broşu çalmak"
+    }
+  ],
+  "solution": {
+    "suspectID": "kemal",
+    "motiveID": "fraud",
+    "evidenceIDs": [
+      "medical",
+      "camera",
+      "appraisal-report"
+    ],
+    "requiredQuestionIDs": [
+      "kemal-camera"
+    ],
+    "explanation": "Kemal Erdem, Selim Vural'ın sahte ekspertiz raporunu ortaya çıkardığını ve savcılığa gideceğini öğrenince paniğe kapıldı. Adli tıp raporu ölüm saatini 22.05–22.20 olarak belirlemiştir. Kamera kayıtları, Kemal'in 22.05'te yalıya girdiğini ve 22.18'de aceleyle ayrıldığını kanıtlamaktadır. Bu zaman diliminde yalıda olan tek kişi Kemal'di. Kemal ilk ifadesinde gece Kadıköy'deki ofisinde olduğunu iddia etmiş, ancak kamera görüntüsüyle yüzleştirildiğinde cinayet mahallinde bulunduğunu itiraf etmek zorunda kalmıştır. Zümrüt broşun çalınması ise olayı adi bir hırsızlık gibi göstermek için tezgahlanmış bir yanıltmacaydı.",
+    "alternativeEvidenceSets": [
+      [
+        "medical",
+        "camera",
+        "messages"
+      ]
+    ],
+    "reconstruction": [
+      {
+        "id": "r1",
+        "time": "17.00",
+        "title": "Sahte ekspertiz raporu tespit edildi",
+        "detail": "Vakıf laboratuvarı Kemal'in onayladığı eserlerin sahte olduğunu belgeledi. Selim Vural suç duyurusu hazırlığı yaptı.",
+        "documentIDs": [
+          "appraisal-report"
+        ]
+      },
+      {
+        "id": "r2",
+        "time": "20.20",
+        "title": "Mesajlaşma ve yüzleşme kararı",
+        "detail": "Selim, Kemal'e savcılığa gideceğini bildirdi. Kemal yalıya gelmek için yalvardı.",
+        "documentIDs": [
+          "messages"
+        ]
+      },
+      {
+        "id": "r3",
+        "time": "22.05–22.18",
+        "title": "Kemal yalıya girdi ve cinayet işlendi",
+        "detail": "Kemal yağmur altında yalıya girdi. Selim'i arkadan mermer büst ile vurdu, olaya hırsızlık süsü verip kaçtı.",
+        "documentIDs": [
+          "medical",
+          "camera"
+        ]
+      },
+      {
+        "id": "r4",
+        "time": "22.40",
+        "title": "Ceset bulundu ve yalanlar çöktü",
+        "detail": "Tarık cesedi buldu ve polisi aradı. Kemal'in 'ofisteydim' yalanı güvenlik kamerasıyla çürütüldü.",
+        "documentIDs": [
+          "scene",
+          "kemal-statement",
+          "camera"
+        ]
+      }
+    ]
+  },
+  "hints": [
+    "Adli tıp raporundaki ölüm saati (22.05–22.20) aralığında bahçe kamerasında kim görülüyor?",
+    "Kemal Erdem'in ilk ifadesi ile güvenlik kamerası kayıtlarını karşılaştırıp kanıt sun.",
+    "Cinayetin arkasındaki asıl sebebi anlamak için ekspertiz sahtecilik raporu ile telefon mesajlarını incele."
+  ],
+  "timeline": [
+    {
+      "id": "t1",
+      "title": "Ekspertiz sahtecilik raporu hazırlandı",
+      "time": "17.00",
+      "documentID": "appraisal-report",
+      "sequence": 1
+    },
+    {
+      "id": "t2",
+      "title": "Selim ve Kemal mesajlaştı",
+      "time": "20.20",
+      "documentID": "messages",
+      "sequence": 2
+    },
+    {
+      "id": "t3",
+      "title": "Leyla yalıdan ayrıldı",
+      "time": "21.45",
+      "documentID": "camera",
+      "sequence": 3
+    },
+    {
+      "id": "t4",
+      "title": "Kemal yalıya girdi",
+      "time": "22.05",
+      "documentID": "camera",
+      "sequence": 4
+    },
+    {
+      "id": "t5",
+      "title": "Kemal yalıdan hızla kaçtı",
+      "time": "22.18",
+      "documentID": "camera",
+      "sequence": 5
+    },
+    {
+      "id": "t6",
+      "title": "Tarık yalıya geldi ve polisi aradı",
+      "time": "22.40",
+      "documentID": "scene",
+      "sequence": 6
+    }
+  ]
+}
+

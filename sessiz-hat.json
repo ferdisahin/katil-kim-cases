@@ -1,0 +1,419 @@
+{
+  "id": "sessiz-hat",
+  "number": "003",
+  "title": "Sessiz Hat",
+  "location": "Karaköy, İstanbul",
+  "duration": "20–30 dk",
+  "difficulty": "Zor",
+  "teaser": "Gece yarısı gelen aramada kimse konuşmadı. Peki hattın öbür ucunda kim vardı?",
+  "brief": "Özel araştırmacı Selim Karaca, bürosunun arşiv odasında ölü bulundu. Gece yarısından sonra yardımcısına büro numarasından gelen sessiz bir arama, ölüm saatine dair ilk varsayımı değiştirdi.\n\nÜç kişi aynı gece binadaydı. Bir tanık arayanın Selim olduğunu düşünüyor, biri binadan çoktan çıktığını söylüyor. Dışarıdan tek numara görünen santralin içeride hangi hatta bağlı olduğunu ve bu aramanın neyi kanıtlamadığını bulmalısın.",
+  "documents": [
+    {
+      "id": "scene",
+      "title": "Arşiv odası tutanağı",
+      "subtitle": "İlk inceleme",
+      "symbol": "doc.text.magnifyingglass",
+      "date": "27 Ekim • 00.18",
+      "body": "Selim Karaca, özel araştırma bürosunun arşiv odasında ölü bulundu. Odaya büro koridorundan giriliyor. Dışarı açılan pencere veya başka geçit yok. Kapı kilitli değildi.\n\nMasada yıllar önceki bir trafik kazasına ait dosya, bir teslim zarfı ve üzerinde “Sabah aileye teslim” yazan not bulundu. Odada telefon cihazı yok; Selim’in masasındaki telefon ön büroda.\n\nBüro santralinin dışarı arayan tüm dahili hatları, alıcıya aynı ana numara olarak görünüyor. Numara görünmesi, aramanın hangi odadan veya kim tarafından yapıldığını tek başına göstermiyor."
+    },
+    {
+      "id": "medical",
+      "title": "Adli zaman raporu",
+      "subtitle": "Ölüm aralığı",
+      "symbol": "cross.case",
+      "date": "27 Ekim • 08.30",
+      "body": "Selim’in ölümü dışarıdan uygulanan şiddet sonucu gerçekleşti. Olay yeri bulgularıyla doğrulanan ölüm aralığı 26 Ekim 23.52–23.58. O aralıktan sonra arama yapabilecek durumda değildi.\n\nMücadeleye ait izler arşiv odasında oluşmuş. Önceden başka bir yerde yaralanıp sonradan odaya gelme, kaza veya kendi kendine oluşan yaralanma ihtimali bu dosyanın incelemesinde dışlandı.\n\n00.07’deki arama bir kişinin hayatta olduğuna ancak kimlik ve içerik doğrulamasıyla kanıt olabilir. Dosyada böyle bir canlı konuşma yok."
+    },
+    {
+      "id": "call-log",
+      "title": "Derya’nın gelen arama kaydı",
+      "subtitle": "Numara, süre ve sessizlik",
+      "symbol": "phone",
+      "date": "27 Ekim • 00.07",
+      "body": "Telefon incelemesi: Arama büro ana numarası etiketiyle göründü. Derya cevap verdi; 44 saniye boyunca konuşma kaydedilmedi. Derya birkaç kez “Selim Bey?” dedi, karşıdan bir yanıt gelmedi.\n\nGörünen ana numara Selim’in kişisel telefonu değil, binadaki santralin ortak çıkış numarasıdır. Kaydın alıcı telefonu veya saatiyle oynanmamıştır.",
+      "callLog": {
+        "owner": "Derya’nın telefonu",
+        "date": "26–27 Ekim",
+        "entries": [
+          {
+            "id": "c1",
+            "time": "23.34",
+            "source": "Selim’in cep telefonu",
+            "destination": "Derya",
+            "duration": "02:16",
+            "status": "Karşılıklı konuşma"
+          },
+          {
+            "id": "c2",
+            "time": "00.07",
+            "source": "Büro ana numarası",
+            "destination": "Derya",
+            "duration": "00:44",
+            "status": "Yanıtlandı · Karşıdan ses yok"
+          },
+          {
+            "id": "c3",
+            "time": "00.09",
+            "source": "Derya",
+            "destination": "Büro ana numarası",
+            "duration": "00:00",
+            "status": "Yanıtlanmadı"
+          }
+        ]
+      }
+    },
+    {
+      "id": "routing",
+      "title": "Santral iç hat dökümü",
+      "subtitle": "Aramanın gerçek çıkış noktası",
+      "symbol": "point.3.connected.trianglepath.dotted",
+      "date": "27 Ekim • 00.07–00.09",
+      "body": "Santral uzman incelemesi: Derya’ya 00.07’de yapılan 44 saniyelik aramanın iç kaynak cihazı, Bora Erkin’in çalışma odasındaki Dahili 14. Selim’in ön bürodaki Dahili 12 cihazı o sırada kullanılmamış.\n\nDahili 14 fiziksel masa telefonudur. O gece uzaktan erişim, yönlendirme, zamanlanmış arama veya numara taklidi yok. Cihaz yerinden sökülmemiş. Tüm santral ve kamera saatleri merkez saatle eşleşiyor.\n\n00.09’daki geri arama resepsiyon grubuna düştü ve açılmadı. Bu geri arama Dahili 14’e yönlendirilmedi.\n\nSonuç: Derya’nın gördüğü ortak dış numara doğrudur, fakat arama Selim’in masasından çıkmamıştır."
+    },
+    {
+      "id": "access",
+      "title": "Koridor ve oda girişleri",
+      "subtitle": "Yüz ve saat doğrulaması",
+      "symbol": "video",
+      "date": "26–27 Ekim • 23.40–00.14",
+      "body": "Kesintisiz görüntü dökümü; saatler merkez saatle eşleşiyor, yüzler açıkça seçiliyor:\n\n23.46 — Selim arşiv odasına giriyor.\n23.51 — Bora aynı odaya giriyor.\n23.57 — Bora odadan tek başına çıkıyor.\n00.05 — Bora kendi çalışma odasına giriyor.\n00.08 — Bora çalışma odasından çıkıyor.\n00.11 — Bora binadan ayrılıyor.\n00.14 — Derya binaya dönüyor.\n\nSelim arşive girdikten sonra Bora dışında kimse o odaya girmedi. Bora’nın çalışma odasına da 00.05–00.08 arasında başka giriş yok. Kamera, ortak santral numarasının kimliğini değil fiziksel konumları doğrular."
+    },
+    {
+      "id": "bora-statement",
+      "title": "Bora’nın ilk ifadesi",
+      "subtitle": "Büronun ortağı",
+      "symbol": "person.text.rectangle",
+      "date": "27 Ekim • 01.10",
+      "body": "“Selim’le aynı dosyada çalışıyorduk. Aramızda ciddi bir sorun yoktu. Ben 23.45’te binadan çıktım ve sabaha kadar dönmedim.\n\n00.07’de Derya’yı Selim aramış olmalı. Büro numarası görünüyorsa onun masasındandır. Kendi odamın telefonuna o gece hiç dokunmadım.\n\nEski kaza dosyasında benim adımın geçmesi bir yanlış anlaşılma. O dosya zaten kapanmıştı.”"
+    },
+    {
+      "id": "old-file",
+      "title": "Teslim edilecek kaza dosyası",
+      "subtitle": "Saklanan kimlik",
+      "symbol": "folder",
+      "date": "26 Ekim • 21.10",
+      "body": "Selim’in hazırladığı dosya, yıllar önce faili bulunamayan bir kazada aracı kullanan kişinin Bora Erkin olduğunu gösteriyor. Onaylı onarım kaydı, olay yeri fotoğrafları ve bağımsız tanığın ifadesi birbirini doğruluyor. Belgelerin gerçekliği bu soruşturma kapsamında doğrulandı.\n\nTeslim notu: “Bora’ya bu akşam son kez soracağım. Yanıtı ne olursa olsun sabah mağdurun ailesine dosyanın kopyasını ve resmî başvuru için hazırladığım özeti teslim edeceğim.”\n\nBu dosya Derya veya Onur’u kazaya bağlamıyor. Bora’nın dosyanın teslimini engellemek için kişisel nedeni var."
+    },
+    {
+      "id": "messages",
+      "title": "Selim ile Bora’nın mesajları",
+      "subtitle": "Son görüşmenin nedeni",
+      "symbol": "bubble.left.and.bubble.right",
+      "date": "26 Ekim • 23.08–23.17",
+      "body": "Konuşma Selim’in cihazından alındı. Gönderenler ve zamanlar doğrulandı. Bora, dosyanın ertesi sabah teslim edileceğini bu konuşmadan öğrenmiş.",
+      "conversation": {
+        "contact": "Bora Erkin",
+        "owner": "Selim Karaca",
+        "date": "26 Ekim",
+        "messages": [
+          {
+            "id": "m1",
+            "outgoing": true,
+            "time": "23.08",
+            "text": "Onarım kaydını da doğruladım. Direksiyonda sen vardın."
+          },
+          {
+            "id": "m2",
+            "outgoing": false,
+            "time": "23.10",
+            "text": "Yıllar önce kapanmış bir şeyi şimdi açamazsın."
+          },
+          {
+            "id": "m3",
+            "outgoing": true,
+            "time": "23.13",
+            "text": "Aile sabah geliyor. Dosyayı teslim edeceğim. Önce senden dinlemek istiyorum."
+          },
+          {
+            "id": "m4",
+            "outgoing": false,
+            "time": "23.17",
+            "text": "Büroya geliyorum. Kimseye bir şey vermeden konuşacağız."
+          }
+        ]
+      }
+    },
+    {
+      "id": "alibis",
+      "title": "Diğer tanıkların konumları",
+      "subtitle": "Bağımsız kayıtlar",
+      "symbol": "person.2",
+      "date": "27 Ekim • 10.00",
+      "body": "Derya Akın, araştırma yardımcısı: 23.44–00.12 arasında takside. Yolculuk kaydı ve araç içi görüntü merkez saatle doğrulandı. Büroya 00.14’te döndü; Selim’i 00.18’de buldu. 00.07’deki sessiz aramayı takside açtı. Selim’in sesini duyduğunu hiçbir kayıtta söylemiyor.\n\nOnur Sönmez, haberleşme teknik görevlisi: 23.48–00.10 arasında bodrumdaki dağıtım panosunda bina görevlisiyle beraber. Bodrum kamerası ve görevlinin ifadesi doğrulandı. Santralin ayarlarını olay gecesi değiştirmedi; aramanın fiziksel kaynağına ilişkin uzman bulgusuyla çelişen bir işlem yok.\n\nDerya’nın ücret alacağı, Onur’un da Selim’le bakım ücreti tartışması var. Ancak ikisinin de ölüm aralığında arşiv odasına erişimi yok."
+    }
+  ],
+  "suspects": [
+    {
+      "id": "bora",
+      "name": "Bora Erkin",
+      "role": "Büronun ortağı",
+      "initials": "BE",
+      "portraitAsset": "portrait-bora",
+      "description": "Eski kaza dosyasındaki isim. O gece binadan erken çıktığını söylüyor.",
+      "questions": [
+        {
+          "id": "bora-first",
+          "prompt": "Selim’le son görüşmen ne hakkındaydı?",
+          "answer": "“Eski bir dosyayı gereksiz yere büyütüyordu. Ben de kapatmasını söyledim. Bu, tehdit sayılmaz.”",
+          "requiresConnection": null,
+          "evidenceIDs": null
+        },
+        {
+          "id": "bora-call",
+          "prompt": "Dış arama senin Dahili 14 hattından çıkmış. Neden Selim’in aradığını söyledin?",
+          "answer": "“Numara görünürse onun aradığını düşünürler sandım. Evet, kendi odamdan ben aradım. Konuşmadım. Selim’in o saatte yaşadığı sanılsın istedim.”",
+          "requiresConnection": "line-origin",
+          "evidenceIDs": [
+            "call-log",
+            "routing"
+          ]
+        },
+        {
+          "id": "bora-access",
+          "prompt": "Kamera seni ölüm aralığında arşivde, aramadan önce de kendi odanda gösteriyor.",
+          "answer": "“23.45’te çıktığım doğru değil. Selim’le arşivde tartıştık. Dosyayı vermesini istedim. Sonra odama geçtim. İçeride olduğum anlaşılmasın diye erken çıktığımı söyledim.”",
+          "requiresConnection": "false-departure",
+          "evidenceIDs": [
+            "access",
+            "bora-statement"
+          ]
+        },
+        {
+          "id": "bora-motive",
+          "prompt": "Dosya ile mesajlar, teslimi engellemek istediğini gösteriyor.",
+          "answer": "“O aracı benim kullandığımı öğrenmelerini istemiyordum. Her şeyi geride bıraktığımı sanmıştım. Selim dosyayı vermeyi reddetti.”",
+          "requiresConnection": "past-exposed",
+          "evidenceIDs": [
+            "old-file",
+            "messages"
+          ]
+        }
+      ]
+    },
+    {
+      "id": "derya",
+      "name": "Derya Akın",
+      "role": "Araştırma yardımcısı",
+      "initials": "DA",
+      "portraitAsset": "portrait-derya",
+      "description": "Sessiz aramayı yanıtladı. Büro numarasını görünce arayanın Selim olduğunu düşündü.",
+      "questions": [
+        {
+          "id": "derya-first",
+          "prompt": "Aramada Selim’in sesini duydun mu?",
+          "answer": "“Hayır. Sadece sessizlik vardı. Numarayı görünce Selim sandım. Birkaç kez seslendim. Benim varsayımım, onun konuştuğu anlamına gelmiyor.”",
+          "requiresConnection": null,
+          "evidenceIDs": null
+        },
+        {
+          "id": "derya-call",
+          "prompt": "Kayıt 44 saniye sessizlik gösteriyor. Arayanın kimliğini doğrulayabiliyor musun?",
+          "answer": "“Doğrulayamıyorum. Bana ulaşan çağrının onun masasından geldiğini sanmıştım. İç hat ayrımını bilmiyordum.”",
+          "requiresConnection": null,
+          "evidenceIDs": [
+            "call-log"
+          ]
+        }
+      ]
+    },
+    {
+      "id": "onur",
+      "name": "Onur Sönmez",
+      "role": "Haberleşme teknik görevlisi",
+      "initials": "OS",
+      "portraitAsset": "portrait-onur",
+      "description": "Santrali tanıyor. Ücret tartışması nedeniyle ilk şüpheliler arasında.",
+      "questions": [
+        {
+          "id": "onur-first",
+          "prompt": "Aynı numara neden birden fazla odayı gösteriyor?",
+          "answer": "“Dışarıdan ana numarayı görürsün. İçeride hangi cihazın aradığını santral kaydı söyler. İkisi aynı bilgi değil.”",
+          "requiresConnection": null,
+          "evidenceIDs": null
+        },
+        {
+          "id": "onur-routing",
+          "prompt": "Bu çağrı başka bir yerden yönlendirilmiş olabilir mi?",
+          "answer": "“Bu kayıtta hayır. Yönlendirme ve uzaktan arama işaretleri yok. Dahili 14’teki fiziksel cihaz kullanılmış. Ben o sırada bodrumdaydım.”",
+          "requiresConnection": null,
+          "evidenceIDs": [
+            "routing"
+          ]
+        }
+      ]
+    }
+  ],
+  "connections": [
+    {
+      "id": "line-origin",
+      "documentIDs": [
+        "call-log",
+        "routing"
+      ],
+      "title": "Tek numara, farklı oda",
+      "explanation": "Derya’nın gördüğü ana numara doğru. İç hat dökümü ise aramanın Selim’in değil Bora’nın odasındaki Dahili 14’ten çıktığını gösteriyor. Arama Selim’in hayatta olduğuna kanıt değil."
+    },
+    {
+      "id": "false-departure",
+      "documentIDs": [
+        "access",
+        "bora-statement"
+      ],
+      "title": "Erken çıkış yalanı",
+      "explanation": "Bora 23.45’te ayrıldığını söylüyor. Görüntü onu 23.51–23.57 arasında arşivde, 00.05–00.08 arasında kendi odasında gösteriyor."
+    },
+    {
+      "id": "past-exposed",
+      "documentIDs": [
+        "old-file",
+        "messages"
+      ],
+      "title": "Sabaha kalmaması istenen sır",
+      "explanation": "Geçmiş kaza dosyası Bora’yı sürücü olarak belirliyor. Mesajlar onun sabahki teslimi öğrendiğini ve bunu durdurmak istediğini doğruluyor."
+    }
+  ],
+  "motives": [
+    {
+      "id": "past",
+      "title": "Geçmiş kazadaki sorumluluğunun ortaya çıkmasını önlemek"
+    },
+    {
+      "id": "salary",
+      "title": "Ödenmeyen ücretin intikamını almak"
+    },
+    {
+      "id": "technical",
+      "title": "Santral bakım hatasını saklamak"
+    }
+  ],
+  "solution": {
+    "suspectID": "bora",
+    "motiveID": "past",
+    "evidenceIDs": [
+      "medical",
+      "access",
+      "routing",
+      "old-file"
+    ],
+    "alternativeEvidenceSets": [
+      [
+        "medical",
+        "access",
+        "routing",
+        "messages"
+      ]
+    ],
+    "requiredQuestionIDs": [
+      "bora-call",
+      "bora-access"
+    ],
+    "explanation": "Bora, Selim’in geçmiş kazadaki sorumluluğunu ortaya çıkaran dosyayı teslim etmesini engellemek istedi. Bağımsız görüntüler onu ölüm aralığında Selim’le arşivde yalnız bırakıyor; diğer iki şüphelinin konumları doğrulanmış. Bora’nın erken ayrıldığı iddiası kayıtla çelişiyor.\n\n00.07’deki sessiz arama, Selim’in yaşadığı izlenimini oluşturmak içindi. Dışarıya ortak numara görünmesine rağmen santral iç dökümü çağrıyı Bora’nın Dahili 14 cihazına bağlıyor. Yönlendirme veya uzaktan kullanım yok; görüntü de o dakikalarda Bora’yı odasında gösteriyor. Derya hiçbir an Selim’in sesini doğrulamamıştı.\n\nArama sırasında Selim zaten ölmüştü. Bora kanıtlarla yüzleştirilince hem aramayı hem de binadan ayrılışına ilişkin yalanını kabul etti. Dosya ve mesajlar kişisel motivasyonu tamamlıyor.",
+    "reconstruction": [
+      {
+        "id": "r1",
+        "time": "23.08–23.17",
+        "title": "Eski sır yeniden açıldı",
+        "detail": "Selim, kazanın sürücüsünü belirleyen dosyayı sabah teslim edeceğini yazdı. Bora bunu durdurmak için büroya geleceğini söyledi.",
+        "documentIDs": [
+          "old-file",
+          "messages"
+        ]
+      },
+      {
+        "id": "r2",
+        "time": "23.51–23.57",
+        "title": "Arşivdeki son görüşme",
+        "detail": "Bora ölüm aralığında Selim’le arşivde yalnız kaldı. Başka ziyaretçi yoktu. Sonradan 23.45’te ayrıldığı yalanını söyledi.",
+        "documentIDs": [
+          "medical",
+          "access",
+          "bora-statement"
+        ]
+      },
+      {
+        "id": "r3",
+        "time": "00.07",
+        "title": "Sessizlik bir alibiye çevrildi",
+        "detail": "Bora kendi odasındaki Dahili 14’ten Derya’yı aradı, konuşmadı. Ortak numaranın Selim’in hayatta olduğuna kanıt sanılmasını istedi.",
+        "documentIDs": [
+          "call-log",
+          "routing"
+        ]
+      },
+      {
+        "id": "r4",
+        "time": "00.14–00.18",
+        "title": "Derya geri döndü",
+        "detail": "Yanıt alamayan Derya binaya döndü ve Selim’i buldu. Kaydın gösterdiği numara ile gerçek arayan birbirinden ayrılınca kurgu çözüldü.",
+        "documentIDs": [
+          "alibis",
+          "scene"
+        ]
+      }
+    ]
+  },
+  "timeline": [
+    {
+      "id": "t5",
+      "title": "Bora kendi çalışma odasına girdi",
+      "time": "27 Ekim • 00.05",
+      "documentID": "access",
+      "sequence": 5
+    },
+    {
+      "id": "t2",
+      "title": "Selim arşiv odasına girdi",
+      "time": "26 Ekim • 23.46",
+      "documentID": "access",
+      "sequence": 2
+    },
+    {
+      "id": "t7",
+      "title": "Derya binaya döndü",
+      "time": "27 Ekim • 00.14",
+      "documentID": "alibis",
+      "sequence": 7
+    },
+    {
+      "id": "t1",
+      "title": "Bora dosya için geleceğini yazdı",
+      "time": "26 Ekim • 23.17",
+      "documentID": "messages",
+      "sequence": 1
+    },
+    {
+      "id": "t6",
+      "title": "Derya’ya sessiz arama yapıldı",
+      "time": "27 Ekim • 00.07",
+      "documentID": "call-log",
+      "sequence": 6
+    },
+    {
+      "id": "t4",
+      "title": "Bora arşivden çıktı",
+      "time": "26 Ekim • 23.57",
+      "documentID": "access",
+      "sequence": 4
+    },
+    {
+      "id": "t8",
+      "title": "Selim arşivde bulundu",
+      "time": "27 Ekim • 00.18",
+      "documentID": "scene",
+      "sequence": 8
+    },
+    {
+      "id": "t3",
+      "title": "Bora arşiv odasına girdi",
+      "time": "26 Ekim • 23.51",
+      "documentID": "access",
+      "sequence": 3
+    }
+  ],
+  "hints": [
+    "Ana numara ile bir kişinin kimliği aynı şey değil. Derya’nın gerçekten hangi sesi duyduğuna dikkat et.",
+    "Derya’nın arama kaydını ve santral iç hat dökümünü Bora’ya birlikte sun. Aramanın hangi fiziksel cihazdan çıktığını ayır.",
+    "Bora’nın ilk ifadesini koridor ve oda girişleriyle karşılaştır. Bu iki belgeyi ona birlikte sunarak erken çıkış iddiasını sorgula.",
+    "Son raporda adli rapor, giriş görüntüleri, iç hat dökümü ve eski dosyayı (veya mesajları) kullan. Geçmiş kazanın ortaya çıkmasını engellemek isteyen kişiyi düşün."
+  ]
+}
