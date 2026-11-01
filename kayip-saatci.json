@@ -1,0 +1,342 @@
+{
+  "id": "kayip-saatci",
+  "number": "008",
+  "title": "Kayıp Saatçi",
+  "location": "Kapalıçarşı, İstanbul",
+  "duration": "15–25 dk",
+  "difficulty": "Orta",
+  "teaser": "Yüz yıllık saatler aynı anda durdu. Usta masasında hareketsizken akrep ve yelkovan bir sırrı saklıyordu.",
+  "brief": "Kapalıçarşı Sandallı Bedesten'deki asırlık saat tamirhanesinde usta saatçi Agop Karayan, çalışma masasında başından vurulmuş halde bulundu. Topkapı Sarayı'ndan restore edilmek üzere teslim alınan paha biçilemez 18. yüzyıl zümrüt işlemeli cep saatinin mekanizması yerinde yoktu.\n\nAkşam kepenkler kapanmadan önce bedestende olan üç şüphelinin ifadelerini, çarşı koridoru kamera dökümünü ve ekspertiz kayıtlarını birleştirerek katili bul.",
+  "documents": [
+    {
+      "id": "scene",
+      "title": "Olay yeri tutanağı",
+      "subtitle": "İlk inceleme",
+      "symbol": "doc.text.magnifyingglass",
+      "date": "6 Kasım • 20.30",
+      "body": "Kapalıçarşı Sandallı Bedesten No: 14'te bulunan tarihi Karayan Saat Atölyesi'nde Agop Karayan (71), çalışma masasında büyüteçli lambasının altında başından tek kurşunla vurulmuş halde bulundu.\n\nAtölye zeminindeki çelik kasanın kapağı açık, kasanın içinde duran 1780 yapımı Osmanlı Saray cep saatinin kasası boşaltılmış, dünyada tek olan zümrüt yataklı mekanizmasının sökülerek çalındığı belirlendi. Dükkân kepengi dışarıdan kilitlenmemiş, sadece yarım çekilmiş durumdaydı."
+    },
+    {
+      "id": "medical",
+      "title": "Adli tıp balistik ve otopsi raporu",
+      "subtitle": "Ölüm nedeni ve saati",
+      "symbol": "cross.case",
+      "date": "7 Kasım • 09.30",
+      "body": "Ölüm nedeni: Yakın mesafeden kafatasının sağ şakak bölgesine isabet eden 7.65mm mermi çekirdeğinin neden olduğu beyin dokusu harabiyeti. Kurbanın saç diplerinde barut izleri tespit edilmiştir.\n\nCesedin rigor mortis ve vücut ısısı dökümü, ölümün 6 Kasım akşamı 19.10 ile 19.25 arasında gerçekleştiğini doğrulamaktadır. Olayda susturucu kullanıldığı için bedestendeki esnaf silah sesini duymamıştır."
+    },
+    {
+      "id": "camera",
+      "title": "Bedesten koridoru CCTV dökümü",
+      "subtitle": "Giriş ve çıkışlar",
+      "symbol": "video",
+      "date": "6 Kasım • 18.45–20.00",
+      "body": "Sandallı Bedesten ana kapı güvenlik kamerası dökümü:\n\n18.50 — Çırak Harun Yaman kepengi yarıya indirip çarşıdan çıkıyor.\n19.12 — Koyu renk yün kabanlı ve kasketli bir erkek yarı açık kepenğin altından eğilerek içeri giriyor.\n19.22 — Aynı erkek şahıs cebinde kabarık bir nesneyle dükkândan çıkıp Beyazıt Kapısı yönüne hızlı adımlarla yürüyor.\n19.55 — Çarşı güvenlik devriyesi kepengin aralık olduğunu fark edip içeri bakıyor ve cesedi buluyor.\n\n19.12–19.22 aralığında atölyeye başka hiçbir giriş olmamıştır.",
+      "camera": {
+        "asset": "kayip-saatci-camera",
+        "label": "Bedesten • Kamera 08",
+        "timestamp": "06 KASIM • 19:15:32",
+        "description": "Gece görüşlü güvenlik kamerası. Koyu kabanlı ve fötr şapkalı bir şahıs Agop Usta'nın dükkânına doğru süzülüyor."
+      }
+    },
+    {
+      "id": "nedim-statement",
+      "title": "Nedim Sancar’ın ilk ifadesi",
+      "subtitle": "Antika tüccarı ve müzayedeci",
+      "symbol": "person.text.rectangle",
+      "date": "7 Kasım • 01.00",
+      "body": "“Agop Usta Kapalıçarşı'nın yaşayan efsanesiydi, kaybı sanat dünyası için bir facia. Kendisiyle öğle saatlerinde kahve içtik.\n\nSaat 18.00 gibi çarşıdan ayrıldım ve Nişantaşı'ndaki sanat galerime geçtim. Gece yarısına kadar galeride katalog hazırladım. Akşam saatlerinde Kapalıçarşı civarında kesinlikle bulunmadım.”"
+    },
+    {
+      "id": "harun-statement",
+      "title": "Harun Yaman’ın ifadesi",
+      "subtitle": "Çırak saatçi",
+      "symbol": "person.text.rectangle",
+      "date": "7 Kasım • 01.45",
+      "body": "“Beş yıldır Agop Usta'nın yanındayım, beni evladı gibi görürdü. Akşam 18.50'de dükkânı kapatırken usta 'Saray saatinin restorasyonu bitti, bu akşam sahibine gidecek' dedi.\n\nNedim Bey'i gün boyunca iki kez dükkânın önünde volta atarken görmüştüm. Ustama saati satın almak için astronomik bir teklif yapmış ama ustam 'Bu milletin mirası, satılık değil' diye terslemişti.”"
+    },
+    {
+      "id": "feraye-statement",
+      "title": "Feraye Tezel’in ifadesi",
+      "subtitle": "Koleksiyoner",
+      "symbol": "person.text.rectangle",
+      "date": "7 Kasım • 02.30",
+      "body": "“Tamirdeki altın köstekli saatimi almak için 19.05'te dükkâna uğradım ama kepenk yarıya inikti. İçeride fısıltılı bir tartışma duydum. 'Cenevre'deki alıcıyı bekletemem' diyen bir ses vardı.\n\nRahatsız etmemek için içeri girmeden ayrıldım. O saatte orada olan kişi katil olmalı.”"
+    },
+    {
+      "id": "appraisal-memo",
+      "title": "Saray restorasyon tutanağı ve kasa incelemesi",
+      "subtitle": "Kriminal uzman raporu",
+      "symbol": "doc.plaintext",
+      "date": "7 Kasım • 08.00",
+      "body": "Kültür Bakanlığı Restorasyon Envanteri Tutanağı:\n\n1780 tarihli Cenevre üretimi 'Zümrüt Yataklı Padişah Saati' mekanizmasının gövdeden profesyonel bir saatçi tornavidasıyla söküldüğü ve kasanın içine değersiz pirinç çarklar bırakıldığı belirlendi. Eserin uluslararası karaborsadaki değeri 3.5 milyon dolar olarak tahmin edilmektedir."
+    },
+    {
+      "id": "messages",
+      "title": "Nedim ile İsviçreli alıcının mesajları",
+      "subtitle": "Kurtarılan Signal yazışmaları",
+      "symbol": "bubble.left.and.bubble.right",
+      "date": "6 Kasım • 17.30–18.15",
+      "body": "Nedim Sancar'ın yedek bulut hesabından çıkarılan şifreli iletiler:",
+      "conversation": {
+        "contact": "Cenevre Koleksiyonu (Marc)",
+        "owner": "Nedim Sancar",
+        "date": "6 Kasım",
+        "messages": [
+          {
+            "id": "m1",
+            "outgoing": false,
+            "time": "17.30",
+            "text": "Nedim, padişah saatinin mekanizmasını bu gece teslim alamazsan anlaşma iptal."
+          },
+          {
+            "id": "m2",
+            "outgoing": true,
+            "time": "17.45",
+            "text": "Merak etme Marc. İhtiyar inat etti ama bu gece o mekanizma benim elimde olacak."
+          },
+          {
+            "id": "m3",
+            "outgoing": false,
+            "time": "18.00",
+            "text": "3 milyon dolar Zürih hesabında hazır bekliyor. Yarın ilk uçakla gel."
+          },
+          {
+            "id": "m4",
+            "outgoing": true,
+            "time": "18.15",
+            "text": "Biletim hazır. Akşam 19.00'da çarşı kapanırken işi bitiriyorum."
+          }
+        ]
+      }
+    }
+  ],
+  "suspects": [
+    {
+      "id": "nedim",
+      "name": "Nedim Sancar",
+      "role": "Antika tüccarı",
+      "initials": "NS",
+      "description": "Uluslararası tarihi eser kaçakçılığı şüphelisi. Saray saatini almak için her şeyi göze almıştı.",
+      "questions": [
+        {
+          "id": "nedim-first",
+          "prompt": "Olay saatinde nerede olduğunuzu açıklar mısınız?",
+          "answer": "“18.00'de çarşıdan çıktım ve Nişantaşı'ndaki galerimde gece yarısına kadar katalog inceledim. Çarşıya geri dönmedim.”",
+          "requiresConnection": null
+        },
+        {
+          "id": "nedim-camera",
+          "prompt": "Saat 19.12'de koyu kabanınızla dükkâna girip 19.22'de cebinizde kabarık mekanizmayla kaçtığınız güvenlik kamerasında görülüyor. Neden yalan söylediniz?",
+          "answer": "“Kahretsin... Evet, dükkâna gittim! Agop'a mekanizma için servet teklif ettim. Beni polise ihbar etmek için telefona uzandı... Engel olmak isterken silah patladı! Mekanizmayı alıp kaçmaktan başka çarem yoktu!”",
+          "requiresConnection": "nedim-lie",
+          "evidenceIDs": [
+            "nedim-statement",
+            "camera"
+          ]
+        },
+        {
+          "id": "nedim-theft",
+          "prompt": "İsviçreli alıcıyla yaptığınız mesajlaşma ve kasadaki boşaltılmış saat tutanağı, cinayeti 3 milyon dolarlık mekanizma kaçakçılığı için işlediğinizi belgeliyor. Doğru mu?",
+          "answer": "“O mekanizma dünyanın en kusursuz eseriydi! O ihtiyar onu sarayın tozlu vitrinine kapatacaktı. Marc bana bir servet teklif etti... Açgözlülüğümün kurbanı oldum.”",
+          "requiresConnection": "theft-motive",
+          "evidenceIDs": [
+            "appraisal-memo",
+            "messages"
+          ]
+        }
+      ],
+      "portraitAsset": "portrait-kemal"
+    },
+    {
+      "id": "harun",
+      "name": "Harun Yaman",
+      "role": "Çırak saatçi",
+      "initials": "HY",
+      "description": "Agop Usta'nın sadık çırağı. Dükkândan en son ayrılan kişi.",
+      "questions": [
+        {
+          "id": "harun-first",
+          "prompt": "Akşam çıkarken dükkânda olağandışı bir durum var mıydı?",
+          "answer": "“Hayır, ustam her zamanki gibi tezgahında çalışıyordu. Kepengi indirip çıktım, cinayetle hiçbir ilgim yok.”",
+          "requiresConnection": null
+        },
+        {
+          "id": "harun-alibi",
+          "prompt": "Ölüm saati olan 19.10–19.25 aralığında neredeydiniz?",
+          "answer": "“Beyazıt Meydanı'ndaki çay ocağındaydım. Arkadaşlarım ve esnaf beni gördü. Kamera da 18.50'de çıktığımı doğrular.”",
+          "requiresConnection": null,
+          "evidenceIDs": [
+            "harun-statement",
+            "camera"
+          ]
+        }
+      ],
+      "portraitAsset": "portrait-tarik"
+    },
+    {
+      "id": "feraye",
+      "name": "Feraye Tezel",
+      "role": "Koleksiyoner",
+      "initials": "FT",
+      "description": "Antika saat meraklısı varlıklı koleksiyoner. Dükkân önünden geçen son tanık.",
+      "questions": [
+        {
+          "id": "feraye-first",
+          "prompt": "Akşam dükkânın önünde duyduğunuz tartışmayı detaylandırır mısınız?",
+          "answer": "“İçeriden gelen ses sert ve tehditkardı. İsviçre ve Cenevre'den bahsediyorlardı. Korkup uzaklaştım.”",
+          "requiresConnection": null
+        },
+        {
+          "id": "feraye-witness",
+          "prompt": "Dükkân önünde gördüğünüz şahsın eşkâlini hatırlıyor musunuz?",
+          "answer": "“Uzun boylu, koyu kabanlı ve şapkalı bir adamdı. Nedim Sancar'ın yürüyüşüne çok benziyordu.”",
+          "requiresConnection": null,
+          "evidenceIDs": [
+            "feraye-statement",
+            "camera"
+          ]
+        }
+      ],
+      "portraitAsset": "portrait-leyla"
+    }
+  ],
+  "connections": [
+    {
+      "id": "nedim-lie",
+      "documentIDs": [
+        "nedim-statement",
+        "camera"
+      ],
+      "title": "Nedim'in Nişantaşı yalanı",
+      "explanation": "Nedim çarşıdan 18.00'de ayrıldığını iddia etti; fakat güvenlik kamerası 19.12'de dükkâna girip 19.22'de kaçtığını kaydetti."
+    },
+    {
+      "id": "theft-motive",
+      "documentIDs": [
+        "appraisal-memo",
+        "messages"
+      ],
+      "title": "3 milyon dolarlık mekanizma kaçakçılığı",
+      "explanation": "İsviçreli alıcıyla yazışmalar ve saray restorasyon tutanağı, Nedim'in saatin zümrüt yataklı mekanizmasını çalıp Cenevre'ye kaçırmak için cinayeti işlediğini ortaya koyuyor."
+    }
+  ],
+  "motives": [
+    {
+      "id": "theft",
+      "title": "Paha biçilemez 18. yüzyıl saray saat mekanizmasını çalıp yurt dışına kaçırmak"
+    },
+    {
+      "id": "debt",
+      "title": "Müzayede evinin birikmiş borçlarını kapatmak"
+    },
+    {
+      "id": "inheritance",
+      "title": "Asırlık saat atölyesinin mülkiyetini zorla devralmak"
+    }
+  ],
+  "solution": {
+    "suspectID": "nedim",
+    "motiveID": "theft",
+    "evidenceIDs": [
+      "medical",
+      "camera",
+      "appraisal-memo"
+    ],
+    "requiredQuestionIDs": [
+      "nedim-camera"
+    ],
+    "explanation": "Nedim Sancar, Agop Usta'ya emanet edilen 18. yüzyıl saray saatinin dünyada eşi olmayan zümrüt yataklı mekanizmasını İsviçreli bir koleksiyonere 3 milyon dolara satmak üzere anlaşmıştır. Agop Usta teklifi reddedip polisi aramak isteyince yakın mesafeden susturuculu tabancayla vurularak öldürülmüştür. Balistik ve otopsi raporu cinayet saatini 19.10–19.25 olarak tespit etmiştir. Bedesten kamerası Nedim'in 19.12'de dükkâna girip 19.22'de mekanizmayla kaçtığını belgelemiştir. Kasa incelemesi ve şifreli yazışmalar ise cinayetin planlı bir tarihi eser soygunu olduğunu kanıtlamıştır.",
+    "alternativeEvidenceSets": [
+      [
+        "medical",
+        "camera",
+        "messages"
+      ]
+    ],
+    "reconstruction": [
+      {
+        "id": "r1",
+        "time": "18.15",
+        "title": "Nedim kaçakçılık anlaşmasını teyit etti",
+        "detail": "Nedim, mekanizmayı bu gece alacağını ve yarın Cenevre'ye uçacağını alıcıya yazdı.",
+        "documentIDs": [
+          "messages"
+        ]
+      },
+      {
+        "id": "r2",
+        "time": "18.50",
+        "title": "Çırak dükkândan ayrıldı",
+        "detail": "Harun kepengi yarıya indirip çarşıdan çıktı, Agop Usta tek kaldı.",
+        "documentIDs": [
+          "harun-statement",
+          "camera"
+        ]
+      },
+      {
+        "id": "r3",
+        "time": "19.12",
+        "title": "Nedim dükkâna girdi ve cinayet işlendi",
+        "detail": "Nedim içeri girdi, Agop Usta'yı vurdu ve saatin mekanizmasını söküp aldı.",
+        "documentIDs": [
+          "camera",
+          "medical",
+          "appraisal-memo"
+        ]
+      },
+      {
+        "id": "r4",
+        "time": "19.55",
+        "title": "Ceset bulundu",
+        "detail": "Devriye cesedi buldu. Nedim'in 'Nişantaşı'ndaydım' yalanı kamera kayıtlarıyla çürütüldü.",
+        "documentIDs": [
+          "scene",
+          "nedim-statement",
+          "camera"
+        ]
+      }
+    ]
+  },
+  "hints": [
+    "Balistik raporundaki ölüm saati (19.10–19.25) aralığında dükkâna kim girdi?",
+    "Nedim Sancar'ın 'Nişantaşı'ndaydım' yalanını bedesten güvenlik kamerasıyla karşılaştırıp yüzleştir.",
+    "Cinayetin arkasındaki asıl motifi kanıtlamak için restorasyon tutanağı ile şifreli telefon mesajlarını bağla."
+  ],
+  "timeline": [
+    {
+      "id": "t1",
+      "title": "Nedim İsviçreli alıcıya teyit verdi",
+      "time": "18.15",
+      "documentID": "messages",
+      "sequence": 1
+    },
+    {
+      "id": "t2",
+      "title": "Harun kepengi indirip ayrıldı",
+      "time": "18.50",
+      "documentID": "camera",
+      "sequence": 2
+    },
+    {
+      "id": "t3",
+      "title": "Nedim dükkâna girdi",
+      "time": "19.12",
+      "documentID": "camera",
+      "sequence": 3
+    },
+    {
+      "id": "t4",
+      "title": "Nedim mekanizmayla hızla kaçtı",
+      "time": "19.22",
+      "documentID": "camera",
+      "sequence": 4
+    },
+    {
+      "id": "t5",
+      "title": "Çarşı güvenliği cesedi buldu",
+      "time": "19.55",
+      "documentID": "scene",
+      "sequence": 5
+    }
+  ]
+}

@@ -26,6 +26,33 @@
     "teaser": "Boğaz kıyısındaki yalıda antika bir heykel parçalandı. Katil, geride ıslak bir ayak izi ve sahte bir rapor bıraktı.",
     "coverAsset": "cover-kuzguncuk",
     "resourceName": "kuzguncuk-cikmazi"
+  },
+  {
+    "id": "gece-nobeti",
+    "title": "Gece Nöbeti",
+    "teaser": "Gece vardiyasında tek bir laboratuvar ışığı yanıyordu. Sabah kilitli kapının ardında sadece kırık bir santrifüj tüpü kaldı.",
+    "coverAsset": "cover-gece-nobeti",
+    "resourceName": "gece-nobeti"
+  },
+  {
+    "id": "miras-pesinde",
+    "title": "Miras Peşinde",
+    "teaser": "Adada fırtına koptuğunda iskele kapandı. Köşkteki zehirli kadeh ise sadece davetlilerden birine aitti.",
+    "coverAsset": "cover-miras-pesinde",
+    "resourceName": "miras-pesinde"
+  },
+  {
+    "id": "son-tango",
+    "title": "Son Tango",
+    "teaser": "Perde kapandığında alkışlar susmadı; ama sahne arkasındaki ışıklar bir daha hiç yanmadı.",
+    "coverAsset": "cover-son-tango",
+    "resourceName": "son-tango"
+  },
+  {
+    "id": "kayip-saatci",
+    "title": "Kayıp Saatçi",
+    "teaser": "Yüz yıllık saatler aynı anda durdu. Usta masasında hareketsizken akrep ve yelkovan bir sırrı saklıyordu.",
+    "coverAsset": "cover-kayip-saatci",
+    "resourceName": "kayip-saatci"
   }
 ]
-

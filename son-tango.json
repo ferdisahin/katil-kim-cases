@@ -1,0 +1,354 @@
+{
+  "id": "son-tango",
+  "number": "007",
+  "title": "Son Tango",
+  "location": "Pera, İstanbul",
+  "duration": "15–25 dk",
+  "difficulty": "Orta",
+  "teaser": "Perde kapandığında alkışlar susmadı; ama sahne arkasındaki ışıklar bir daha hiç yanmadı.",
+  "brief": "Pera'daki tarihi Fransız Tiyatrosu'nda sergilenen ünlü tango gösterisinin prömiyer gecesinde koreograf ve sanat yönetmeni Koray Saydam, kulisindeki odasında zehirlenerek öldürüldü. Masasında yarım kalmış bir kadeh kırmızı şarap ve yırtılmış bir sözleşme bulundu.\n\nKulisteki üç şüphelinin ifadelerini, yangın çıkış kamerası kayıtlarını ve şarap kadehine dair laboratuvar dökümlerini inceleyerek gizemi çöz.",
+  "documents": [
+    {
+      "id": "scene",
+      "title": "Olay yeri tutanağı",
+      "subtitle": "İlk inceleme",
+      "symbol": "doc.text.magnifyingglass",
+      "date": "5 Kasım • 22.30",
+      "body": "Pera Fransız Tiyatrosu zemin kat Sanat Yönetmeni Odası'nda Koray Saydam (46), makyaj aynasının önündeki koltukta yığılmış halde bulundu. Masanın üzerinde yarıya kadar içilmiş kırmızı şarap kadehi ve kırılmış bir karaf parçası vardı.\n\nMasanın altındaki çöp sepetinde yırtılmış bir 'Avrupa Turnesi Başdansçı Sözleşmesi' ve parçalanmış bir ortopedik sağlık raporu bulundu. Odanın kulis koridoruna açılan tek kapısında herhangi bir zorlama izi tespit edilmedi."
+    },
+    {
+      "id": "medical",
+      "title": "Adli tıp toksikoloji raporu",
+      "subtitle": "Ölüm nedeni ve saati",
+      "symbol": "cross.case",
+      "date": "6 Kasım • 09.00",
+      "body": "Ölüm nedeni: Kırmızı şarap kadehine karıştırılmış yüksek dozda Potasyum Siyanür zehirlenmesi. Zehir hücre solunumunu dakikalar içinde durdurarak ani kardiyak arrest meydana getirmiştir.\n\nVücut ısısı ve rigor mortis bulguları, ölümün 5 Kasım akşamı saat 21.30 ile 21.45 arasında gerçekleştiğini göstermektedir. Kadehteki şarapta siyanür pozitif çıkmış, şişedeki şarapta ise zehre rastlanmamıştır."
+    },
+    {
+      "id": "camera",
+      "title": "Kulis koridoru CCTV dökümü",
+      "subtitle": "Giriş ve çıkışlar",
+      "symbol": "video",
+      "date": "5 Kasım • 21.15–22.15",
+      "body": "Tiyatro kulis koridoruna bakan güvenlik kamerasının kayıt dökümü:\n\n21.20 — Yapımcı Sinan Uçar Koray'ın odasına girip sözleşme taslaklarını bırakıyor ve 21.25'te çıkıp locaya dönüyor.\n21.34 — Kırmızı sahne elbiseli bir kadın hızla Koray'ın odasına giriyor.\n21.41 — Aynı kadın kapıyı çekerek telaş içinde soyunma odaları koridoruna doğru koşuyor.\n21.55 — Sahne teknisyeni Burak Şen tebrik için odayı çalıyor, yanıt alamayınca ayrılıyor.\n22.20 — Burak Şen odaya girdiğinde cesedi bularak güvenliğe haber veriyor.\n\n21.34–21.41 aralığı dışında odaya giren başka kimse olmamıştır.",
+      "camera": {
+        "asset": "son-tango-camera",
+        "label": "Kulis • Kamera 02",
+        "timestamp": "05 KASIM • 21:38:45",
+        "description": "Siyah beyaz güvenlik kamerası kaydı. Kırmızı tango kostümlü bir kadın Koray Saydam'ın odasından çıkıp koridorda koşar adım uzaklaşıyor."
+      }
+    },
+    {
+      "id": "defne-statement",
+      "title": "Defne Aksoy’un ilk ifadesi",
+      "subtitle": "Başdansçı",
+      "symbol": "person.text.rectangle",
+      "date": "6 Kasım • 00.30",
+      "body": "“Koray Bey benim kariyerimin mimarıydı. Bu akşam prömiyerimiz vardı ve tüm salon ayakta alkışladı. İkinci perde bittikten sonra saat 21.15'te doğrudan kendi odama geçtim.\n\nMakyajımı tazeledim ve kostümümü değiştirdim. 22.00'deki gala kutlamasına kadar odamdan kesinlikle dışarı adım atmadım. Koray Bey'in odasına gösteriden sonra hiç uğramadım.”"
+    },
+    {
+      "id": "burak-statement",
+      "title": "Burak Şen’in ifadesi",
+      "subtitle": "Işık ve sahne amiri",
+      "symbol": "person.text.rectangle",
+      "date": "6 Kasım • 01.15",
+      "body": "“Işık kumandası masasındaydım. 21.30 sularında Defne Hanım'ın sahne arkasında çok öfkeli bir şekilde Koray'ın odasına doğru yürüdüğünü gördüm. Elinde bir kâğıt tomarı vardı.\n\n21.55'te gösteri sonu tebriği için Koray Bey'in kapısını çaldım, içeriden ses gelmeyince uyuyor sandım. 22.20'de genel provayı konuşmak için anahtarla açtığımda yerde hareketsiz yatıyordu.”"
+    },
+    {
+      "id": "sinan-statement",
+      "title": "Sinan Uçar’ın ifadesi",
+      "subtitle": "Tiyatro yapımcısı",
+      "symbol": "person.text.rectangle",
+      "date": "6 Kasım • 02.00",
+      "body": "“Turne bütçesi yüzünden Koray ile Defne arasında büyük bir kavga vardı. Koray, Defne'nin dizindeki kronik sakatlığı öne sürerek onu başrolden alıp turneyi iptal etmek istiyordu.\n\n21.25'te Koray'ın yanından çıktım ve protokol locasında belediye yetkilileriyle sohbet ettim. Locadaki kameralar ve davetliler beni doğrular.”"
+    },
+    {
+      "id": "contract-report",
+      "title": "Yırtık sözleşme ve şantaj notu",
+      "subtitle": "Kriminal laboratuvar belgesi",
+      "symbol": "doc.plaintext",
+      "date": "5 Kasım • 23.00",
+      "body": "Çöp Kutusundan Kurtarılan Belgeler:\n\n1. 'Avrupa Turnesi Temsil Sözleşmesi': Üzerinde Koray Saydam'ın el yazısıyla 'Feshedildi - Defne Aksoy yerine Selin Kaya başrol oynayacak' notu düşülmüş ve yırtılmış.\n\n2. 'Özel Ortopedi Hastanesi Gizli Sağlık Raporu': Defne Aksoy'un sağ diz menisküsünde geri dönülemez yırtık olduğu ve profesyonel dansı bırakması gerektiği belirtilmiş.\n\nKoray Saydam'ın daktilo notu: 'Eğer sessizce ayrılmazsan bu raporu sabah basına dağıtacağım, dans kariyerin rezil olarak bitecek.'"
+    },
+    {
+      "id": "messages",
+      "title": "Koray ile Defne’nin yazışmaları",
+      "subtitle": "Kurtarılan WhatsApp mesajları",
+      "symbol": "bubble.left.and.bubble.right",
+      "date": "5 Kasım • 19.45–20.15",
+      "body": "Koray Saydam'ın telefonundan alınan yazışmalar:",
+      "conversation": {
+        "contact": "Defne Aksoy",
+        "owner": "Koray Saydam",
+        "date": "5 Kasım",
+        "messages": [
+          {
+            "id": "m1",
+            "outgoing": true,
+            "time": "19.45",
+            "text": "Defne, sakatlık raporun elimde. Bu gece sahnede son dansın. Turne kadrosundan çıkarıldın."
+          },
+          {
+            "id": "m2",
+            "outgoing": false,
+            "time": "19.55",
+            "text": "Koray bunu yapamazsın! Turneyi ben organize ettim, bana bu kumpası kuramazsın."
+          },
+          {
+            "id": "m3",
+            "outgoing": true,
+            "time": "20.05",
+            "text": "Kararım kesin. İkinci perdeden sonra odama gel, fesih protokolünü imzala yoksa raporu basına veririm."
+          },
+          {
+            "id": "m4",
+            "outgoing": false,
+            "time": "20.12",
+            "text": "Hayatımı mahvetmene izin vermeyeceğim. Odaya geliyorum, bu hesabı kapatacağız."
+          },
+          {
+            "id": "m5",
+            "outgoing": true,
+            "time": "20.15",
+            "text": "Şarabımı açtım bekliyorum. Boşuna yalvarma."
+          }
+        ]
+      }
+    }
+  ],
+  "suspects": [
+    {
+      "id": "defne",
+      "name": "Defne Aksoy",
+      "role": "Başdansçı",
+      "initials": "DA",
+      "description": "Tiyatronun baş yıldızı. Kariyerini bitirecek gizli sağlık raporuyla tehdit ediliyordu.",
+      "questions": [
+        {
+          "id": "defne-first",
+          "prompt": "İkinci perdeden sonra Koray Bey'in odasına gittiniz mi?",
+          "answer": "“Kesinlikle gitmedim. Odamda dinlendim. Koray Bey ile aramızda hiçbir gerginlik yoktu.”",
+          "requiresConnection": null
+        },
+        {
+          "id": "defne-camera",
+          "prompt": "Saat 21.34'te kırmızı tango elbisenizle Koray Bey'in odasına girip 21.41'de telaşla kaçtığınız güvenlik kamerasıyla sabit. Neden yalan söylediniz?",
+          "answer": "“Tamam... Odaya gittim! Şantajına boyun eğmeyeceğimi söyledim. Beni aşağıladı, yüzüme güldü... Masadaki şarap kadehine siyanürü damlattım. Yıllarımı ona köle olarak geçirmiştim, beni bir çöpe atar gibi kovmasına izin veremezdim!”",
+          "requiresConnection": "defne-lie",
+          "evidenceIDs": [
+            "defne-statement",
+            "camera"
+          ]
+        },
+        {
+          "id": "defne-blackmail",
+          "prompt": "Çöp kutusundaki yırtık sözleşme ve gizli sakatlık raporu Koray'ın sizi kariyerinizi bitirmekle tehdit ettiğini gösteriyor. Cinayeti bu şantajı durdurmak için mi işlediniz?",
+          "answer": "“O rapor basına sızsaydı hiçbir kumpanya bana rol vermezdi. Hayatım danstı benim! Koray benden sonraki yıldızı parlatmak için beni harcayacaktı... Onu susturmaktan başka yol bırakmadı.”",
+          "requiresConnection": "contract-motive",
+          "evidenceIDs": [
+            "contract-report",
+            "messages"
+          ]
+        }
+      ],
+      "portraitAsset": "portrait-defne"
+    },
+    {
+      "id": "burak",
+      "name": "Burak Şen",
+      "role": "Sahne ve ışık amiri",
+      "initials": "BŞ",
+      "description": "Tiyatronun sahne teknisyeni. Cesedi ilk bulan kişi.",
+      "questions": [
+        {
+          "id": "burak-first",
+          "prompt": "Koray Bey'in zehirlendiğini nasıl anladınız?",
+          "answer": "“22.20'de odaya girdiğimde koltuğunda hareketsiz yatıyordu. Ağzında acı badem kokusu vardı, kadehi görünce hemen güvenliği aradım.”",
+          "requiresConnection": null
+        },
+        {
+          "id": "burak-witness",
+          "prompt": "Defne Hanım'ın odaya gittiğini saat kaçta gördünüz?",
+          "answer": "“21.30 civarıydı, ikinci perde yeni bitmişti. Defne Hanım çok öfkeliydi, kırmızı kostümüyle koridorda koşuyordu.”",
+          "requiresConnection": null,
+          "evidenceIDs": [
+            "burak-statement",
+            "camera"
+          ]
+        }
+      ],
+      "portraitAsset": "portrait-burak"
+    },
+    {
+      "id": "sinan",
+      "name": "Sinan Uçar",
+      "role": "Tiyatro yapımcısı",
+      "initials": "SU",
+      "description": "Turnenin finansörü. Gösteri sırasında protokol locasındaydı.",
+      "questions": [
+        {
+          "id": "sinan-first",
+          "prompt": "Koray Saydam ile aranızda turne konusunda bir tartışma yaşandı mı?",
+          "answer": "“Bütçe konusunda fikir ayrılıklarımız vardı ama 21.25'te yanından ayrıldım ve locaya geçtim. Cinayetle hiçbir ilgim yok.”",
+          "requiresConnection": null
+        },
+        {
+          "id": "sinan-alibi",
+          "prompt": "Ölüm saati olan 21.30–21.45 aralığında neredeydiniz?",
+          "answer": "“Protokol locasındaydım, kültür müdürü ve davetlilerle oyun üzerine sohbet ediyordum. Loca kameraları bunu açıkça belgeler.”",
+          "requiresConnection": null,
+          "evidenceIDs": [
+            "sinan-statement",
+            "camera"
+          ]
+        }
+      ],
+      "portraitAsset": "portrait-aras"
+    }
+  ],
+  "connections": [
+    {
+      "id": "defne-lie",
+      "documentIDs": [
+        "defne-statement",
+        "camera"
+      ],
+      "title": "Defne'nin kulis yalanı",
+      "explanation": "Defne odasında dinlendiğini iddia etti; fakat güvenlik kamerası 21.34'te Koray'ın odasına girdiğini ve 21.41'de kaçtığını net biçimde kaydetti."
+    },
+    {
+      "id": "contract-motive",
+      "documentIDs": [
+        "contract-report",
+        "messages"
+      ],
+      "title": "Sakatlık şantajı ve feshedilen sözleşme",
+      "explanation": "Mesajlar Koray'ın Defne'nin sakatlık raporunu basına verip kariyerini bitireceğini gösteriyor. Çöpteki yırtık sözleşme ve şantaj notu da cinayetin asıl motivasyonunu kanıtlıyor."
+    }
+  ],
+  "motives": [
+    {
+      "id": "blackmail",
+      "title": "Kariyerini bitirecek sakatlık raporu şantajını ve turne sözleşmesi feshini engellemek"
+    },
+    {
+      "id": "jealousy",
+      "title": "Yeni başdansçıya kaptırılan rolün intikamını almak"
+    },
+    {
+      "id": "money",
+      "title": "Tiyatronun prömiyer gecesi gişe hasılatını çalmak"
+    }
+  ],
+  "solution": {
+    "suspectID": "defne",
+    "motiveID": "blackmail",
+    "evidenceIDs": [
+      "medical",
+      "camera",
+      "contract-report"
+    ],
+    "requiredQuestionIDs": [
+      "defne-camera"
+    ],
+    "explanation": "Defne Aksoy, koreograf Koray Saydam'ın dizindeki sakatlık raporunu basına sızdırıp kendisini turne kadrosundan kovacağını öğrenince cinayeti işlemiştir. Toksikoloji raporu kurbanın 21.30–21.45 arasında şarap kadehine karıştırılan potasyum siyanür ile öldürüldüğünü belirlemiştir. Güvenlik kamerası, Defne'nin tam bu zaman diliminde (21.34–21.41) odaya girdiğini ve panik içinde kaçtığını belgelemiştir. Çöp kutusundaki yırtık sözleşme ve şantaj notları ise cinayetin arkasındaki zorlayıcı motifi şüpheye yer bırakmayacak şekilde açığa çıkarmıştır.",
+    "alternativeEvidenceSets": [
+      [
+        "medical",
+        "camera",
+        "messages"
+      ]
+    ],
+    "reconstruction": [
+      {
+        "id": "r1",
+        "time": "20.05",
+        "title": "Koray şantajı bildirdi",
+        "detail": "Koray, sakatlık raporunu basına verip sözleşmeyi feshedeceğini mesajla iletti.",
+        "documentIDs": [
+          "messages"
+        ]
+      },
+      {
+        "id": "r2",
+        "time": "21.34",
+        "title": "Defne odaya girdi",
+        "detail": "Defne ikinci perdeden sonra odaya girdi ve kadehe siyanür damlattı.",
+        "documentIDs": [
+          "camera",
+          "medical"
+        ]
+      },
+      {
+        "id": "r3",
+        "time": "21.41",
+        "title": "Sözleşme yırtıldı ve Defne kaçtı",
+        "detail": "Sözleşme yırtılıp çöpe atıldı, Defne odadan koşarak uzaklaştı.",
+        "documentIDs": [
+          "contract-report",
+          "camera"
+        ]
+      },
+      {
+        "id": "r4",
+        "time": "22.20",
+        "title": "Ceset bulundu",
+        "detail": "Burak cesedi buldu. Defne'nin 'odamdaydım' yalanı kamera kayıtlarıyla çürütüldü.",
+        "documentIDs": [
+          "scene",
+          "defne-statement",
+          "camera"
+        ]
+      }
+    ]
+  },
+  "hints": [
+    "Toksikoloji raporundaki ölüm saati (21.30–21.45) aralığında kulis kamerasında kim görülüyor?",
+    "Defne Aksoy'un 'odamdan çıkmadım' savunmasını kulis koridoru kamerasıyla karşılaştırıp kanıt sun.",
+    "Cinayetin ardındaki asıl nedeni anlamak için çöp kutusundaki yırtık sözleşme ile telefon mesajlarını incele."
+  ],
+  "timeline": [
+    {
+      "id": "t1",
+      "title": "Koray şantaj mesajını gönderdi",
+      "time": "20.05",
+      "documentID": "messages",
+      "sequence": 1
+    },
+    {
+      "id": "t2",
+      "title": "Sinan odadan ayrılıp locaya geçti",
+      "time": "21.25",
+      "documentID": "camera",
+      "sequence": 2
+    },
+    {
+      "id": "t3",
+      "title": "Defne odaya girdi",
+      "time": "21.34",
+      "documentID": "camera",
+      "sequence": 3
+    },
+    {
+      "id": "t4",
+      "title": "Defne odadan kaçtı",
+      "time": "21.41",
+      "documentID": "camera",
+      "sequence": 4
+    },
+    {
+      "id": "t5",
+      "title": "Burak odayı çaldı ama yanıt alamadı",
+      "time": "21.55",
+      "documentID": "camera",
+      "sequence": 5
+    },
+    {
+      "id": "t6",
+      "title": "Burak cesedi buldu",
+      "time": "22.20",
+      "documentID": "scene",
+      "sequence": 6
+    }
+  ]
+}
